@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO UserAddress(userid,city,state,zip) VALUES (2224,'Cortez',NULL,'8313');
 INSERT INTO UserAddress(userid,city,state,zip) VALUES (3565,'Portorož',NULL,'6333');
 INSERT INTO UserAddress(userid,city,state,zip) VALUES (8773,'Kalix','Norrbotten','952 61');

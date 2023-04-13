@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO AuthorEmail(authorid,email) VALUES (1937,'opaolinonk@flavors.me');
 INSERT INTO AuthorEmail(authorid,email) VALUES (5409,'hwildbloodpm@unc.edu');
 INSERT INTO AuthorEmail(authorid,email) VALUES (9405,'nbranston5e@tiny.cc');

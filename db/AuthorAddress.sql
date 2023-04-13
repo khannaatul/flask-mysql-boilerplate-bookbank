@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO AuthorAddress(authorid,city,state,zip) VALUES (2246,'Krajan',NULL,NULL);
 INSERT INTO AuthorAddress(authorid,city,state,zip) VALUES (383,'Ganxi',NULL,NULL);
 INSERT INTO AuthorAddress(authorid,city,state,zip) VALUES (9012,'Gaza',NULL,NULL);

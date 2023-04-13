@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO UserEmail(userid,email) VALUES (8372,'dsneydkk@icio.us');
 INSERT INTO UserEmail(userid,email) VALUES (2217,'wskullet7s@deviantart.com');
 INSERT INTO UserEmail(userid,email) VALUES (5219,'astudmanci@nytimes.com');

@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2973,'Sheelagh','Lethardy','slethardy0@so-net.ne.jp','slethardy0','j4UNP0MBb4a','Guzhuyingzi',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7381,'Fredi','Corkell','fcorkell1@twitter.com','fcorkell1','MUnTNXl','Aix-en-Provence','Provence-Alpes-Côte d''Azur','13617 CEDEX 1');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2049,'Rutter','Baitson','rbaitson2@slate.com','rbaitson2','VySwXLeH6zv','Fumin',NULL,NULL);

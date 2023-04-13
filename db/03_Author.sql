@@ -1,3 +1,5 @@
+USE BookBank;
+
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5461,'Jaymie','Deeman','jdeeman0@infoseek.co.jp','jdeeman0','gSiVVgdzCQI8','Foumbot',NULL,NULL,1436);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9767,'Hyatt','Foggo','hfoggo1@wufoo.com','hfoggo1','4miAwT','Kasungu',NULL,NULL,5225);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5500,'Vikki','Sign','vsign2@xrea.com','vsign2','6hgdkHHH7ipQ','Kenyau',NULL,NULL,4175);
