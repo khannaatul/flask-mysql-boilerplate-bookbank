@@ -1,5 +1,9 @@
 # MySQL + Flask Boilerplate Project
 
+# Project Description
+
+1. This is a book swap application. This application allows book readers to register their user information, location, and book they currently have (physical or eBook). Allows book readers to request book swaps with other book readers/receive book swap requests so the two users can meet up in person or virtually and swap books. Allows book readers to perform book swaps with the book bank and add and remove with their library. Authors can submit books to the book bank.
+
 This repo contains a boilerplate setup for spinning up 3 Docker containers: 
 1. A MySQL 8 container for obvious reasons
 1. A Python Flask container to implement a REST API
