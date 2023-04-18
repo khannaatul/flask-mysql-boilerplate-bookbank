@@ -7,7 +7,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6773,'Daisy','Wilne','dwilne4@europa.eu','dwilne4','t1BSLt','Nhà Bàng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6128,'Franny','Trusler','ftrusler5@stanford.edu','ftrusler5','DD0XRsjz','Lanlacuni Bajo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7486,'Inglis','Christiensen','ichristiensen6@answers.com','ichristiensen6','upgHqMfk','Colima',NULL,'11305');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9482,'Udall','Cramp','ucramp7@comcast.net','ucramp7','NeTgzA','Degan',NULL,NULL);
+-- INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7487,'Joshua','P','ichristiensen6@answers.com','ichristiensen6','upgHqMfk','Colima',NULL,'11303');
+-- INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9482,'Udall','Cramp','ucramp7@comcast.net','ucramp7','NeTgzA','Degan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3987,'Chalmers','Purshouse','cpurshouse8@liveinternet.ru','cpurshouse8','oUxuGtF','Toyooka',NULL,'999-8316');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8950,'Yovonnda','Tinline','ytinline9@gravatar.com','ytinline9','jUrpY6e','Itaperuna',NULL,'28300-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2833,'Addi','Reuss','areussa@go.com','areussa','YxAyhB','Niaohe',NULL,NULL);

@@ -3,14 +3,14 @@ import json
 from src import db
 
 
-customers = Blueprint('customers', __name__)
+bookreaders = Blueprint('bookreaders', __name__)
 
-# Get all customers from the DB
-@customers.route('/customers', methods=['GET'])
-def get_customers():
+# Get all bookreaders from the BookBank
+@bookreaders.route('/bookreaders', methods=['GET'])
+def get_bookreaders():
     cursor = db.get_db().cursor()
-    cursor.execute('select company, last_name,\
-        first_name, job_title, business_phone from customers')
+    cursor.execute('SELECT userid,\
+       first, last, email, username FROM BookReader')
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -21,11 +21,11 @@ def get_customers():
     the_response.mimetype = 'application/json'
     return the_response
 
-# Get customer detail for customer with particular userID
-@customers.route('/customers/<userID>', methods=['GET'])
-def get_customer(userID):
+# Get bookreader detail for bookreader with particular userid
+@bookreaders.route('/bookreaders/<userid>', methods=['GET'])
+def get_bookreader(userid):
     cursor = db.get_db().cursor()
-    cursor.execute('select * from customers where id = {0}'.format(userID))
+    cursor.execute('select * from BookReader where id = {0}'.format(userid))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()

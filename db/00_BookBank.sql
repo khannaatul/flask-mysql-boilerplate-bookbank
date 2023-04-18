@@ -1,6 +1,8 @@
-CREATE DATABASE BookBank;
+CREATE DATABASE `BookBank`;
 
-USE BookBank;
+DROP SCHEMA IF EXISTS `BookBank` ;
+CREATE SCHEMA IF NOT EXISTS `BookBank` DEFAULT CHARACTER SET latin1 ;
+USE `BookBank` ;
 
 CREATE TABLE BookReader
 (
@@ -12,7 +14,7 @@ CREATE TABLE BookReader
     password VARCHAR(50) NOT NULL,
     city     VARCHAR(50),
     state    VARCHAR(50),
-    zip      INT
+    zip      VARCHAR(50)
 );
 
 CREATE TABLE Curator
@@ -25,7 +27,7 @@ CREATE TABLE Curator
     password  VARCHAR(100) NOT NULL,
     City      VARCHAR(50),
     State     VARCHAR(50),
-    Zip       INT
+    Zip       VARCHAR(50)
 );
 
 
@@ -39,7 +41,7 @@ CREATE TABLE Author
     password  VARCHAR(50) NOT NULL,
     city      VARCHAR(50),
     state     VARCHAR(50),
-    zip       INT,
+    zip       VARCHAR(50),
     CuratorID INT,
     FOREIGN KEY (CuratorID) REFERENCES Curator (CuratorID)
 );
@@ -81,7 +83,7 @@ CREATE TABLE AuthorAddress
     AuthorID INT PRIMARY KEY,
     city     VARCHAR(50),
     state    VARCHAR(50),
-    zip      INT,
+    zip      VARCHAR(50),
     CONSTRAINT fk_02 FOREIGN KEY (AuthorID) REFERENCES Author (AuthorID) on DELETE CASCADE
 );
 
@@ -97,7 +99,7 @@ CREATE TABLE UserAddress
     UserID INT PRIMARY KEY,
     city   VARCHAR(50),
     state  VARCHAR(50),
-    zip    INT,
+    zip    VARCHAR(50),
     CONSTRAINT fk_04 FOREIGN KEY (UserID) REFERENCES BookReader (UserID) on DELETE CASCADE
 );
 
@@ -106,7 +108,7 @@ CREATE TABLE CuratorAddress
     CuratorID INT PRIMARY KEY,
     city      VARCHAR(50),
     state     VARCHAR(50),
-    zip       INT,
+    zip       VARCHAR(50),
     CONSTRAINT fk_05 FOREIGN KEY (CuratorID) REFERENCES Curator (CuratorID) on DELETE CASCADE
 );
 
