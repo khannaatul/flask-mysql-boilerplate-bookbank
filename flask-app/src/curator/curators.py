@@ -85,3 +85,17 @@ def curator_delete(curatorid):
     db.session.delete(curator)
     db.session.commit()
     return "Curator was successfully deleted"
+
+
+
+
+# update curator username and password
+@app.route("/curatorupdate/<curatorid>", methods=["PUT"])
+def curator_update(curatorid):
+    curator = Curator.query.get(curatorid)
+    password = request.json['password']
+
+    curator.password = password
+
+    db.session.commit()
+    return curator_schema.jsonify(curator)

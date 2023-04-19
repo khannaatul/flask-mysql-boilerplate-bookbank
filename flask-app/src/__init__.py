@@ -36,5 +36,6 @@ def create_app():
     # Register the routes that we just imported so they can be properly handled
     app.register_blueprint(bookreaders,   url_prefix='/br')
     app.register_blueprint(books,    url_prefix='/b')
+    app.register_blueprint(curators,    url_prefix='/c')
 
     return app

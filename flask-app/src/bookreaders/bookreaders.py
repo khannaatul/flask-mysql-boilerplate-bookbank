@@ -79,9 +79,21 @@ def add_bookreader():
 
 
 #delete bookreader
-@app.route("/bookreaders/<userid>", methods=["DELETE"])
+@app.route("/bookreadersdelete/<userid>", methods=["DELETE"])
 def bookreader_delete(userid):
     bookreader = BookReader.query.get(userid)
     db.session.delete(bookreader)
     db.session.commit()
     return "BookReader was successfully deleted"
+
+
+# update bookreader username and password
+@app.route("/bookreadersupdate/<cuserid>", methods=["PUT"])
+def curator_update(userid):
+    bookreader = Curator.query.get(userid)
+    password = request.json['password']
+
+    bookreader.password = password
+
+    db.session.commit()
+    return bookreaders_schema.jsonify(bookreader)
