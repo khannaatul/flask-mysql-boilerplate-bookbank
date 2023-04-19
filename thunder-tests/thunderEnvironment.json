@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "_id": "c5a2b13f-ff89-4294-a41e-175a083967fc",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-04-19T14:56:45.174Z",
+    "modified": "2023-04-19T14:56:45.174Z",
+    "data": [
+      {
+        "name": "ID",
+        "value": "localhost"
+      },
+      {
+        "name": "port",
+        "value": "8001"
+      }
+    ]
+  }
+]

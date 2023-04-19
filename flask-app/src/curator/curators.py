@@ -25,7 +25,7 @@ def get_bookreaders():
 @curators.route('/curators/<curatorid>', methods=['GET'])
 def get_curator(curatorid):
     cursor = db.get_db().cursor()
-    cursor.execute('select * from Curator where id = {0}'.format(userid))
+    cursor.execute('select * from Curator where CuratorID = {0}'.format(curatorid))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -83,9 +83,10 @@ def add_curator():
 #delete curator
 @curators.route("/curatordelete/<curatorid>", methods=["DELETE"])
 def curator_delete(curatorid):
-    curator = Curator.query.get(curatorid)
-    db.session.delete(curator)
-    db.session.commit()
+    cursor = db.get_db().cursor()
+    cursor.execute('DELETE from Curator where CuratorID = {0}'.format(curatorid))
+    #send commit command to database
+    db.get_db().commit()
     return "Curator was successfully deleted"
 
 

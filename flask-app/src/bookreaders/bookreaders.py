@@ -25,7 +25,7 @@ def get_bookreaders():
 @bookreaders.route('/bookreaders/<userid>', methods=['GET'])
 def get_bookreader(userid):
     cursor = db.get_db().cursor()
-    cursor.execute('select * from BookReader where id = {0}'.format(userid))
+    cursor.execute('select * from BookReader where userid = {0}'.format(userid))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -83,19 +83,20 @@ def add_bookreader():
 #delete bookreader
 @bookreaders.route("/bookreadersdelete/<userid>", methods=["DELETE"])
 def bookreader_delete(userid):
-    bookreader = BookReader.query.get(userid)
-    db.session.delete(bookreader)
-    db.session.commit()
+    cursor = db.get_db().cursor()
+    cursor.execute('DELETE from BookReader where userid = {0}'.format(userid))
+    #send commit command to database
+    db.get_db().commit()
     return "BookReader was successfully deleted"
 
 
 # update bookreader username and password
-@bookreaders.route("/bookreadersupdate/<cuserid>", methods=["PUT"])
-def curator_update(userid):
-    bookreader = Curator.query.get(userid)
+@bookreaders.route("/bookreadersupdate/<userid>", methods=["PUT"])
+def bookreader_update(userid):
+    bookreader = get_bookreader(userid)
     password = request.json['password']
 
     bookreader.password = password
 
     db.session.commit()
-    return bookreaders_schema.jsonify(bookreader)
+    return "BookReader password was successfully updated"#bookreaders_schema.jsonify(bookreader)

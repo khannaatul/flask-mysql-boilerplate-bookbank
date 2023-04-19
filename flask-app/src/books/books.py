@@ -109,9 +109,10 @@ def add_book():
     return 'Success'
 
 
-@books.route("/bookdelete/<bookid>", methods=["DELETE"])
+@books.route("/bookdelete/<bookID>", methods=["DELETE"])
 def book_delete(bookID):
-    book = Books.query.get(bookID)
-    db.session.delete(book)
-    db.session.commit()
+    cursor = db.get_db().cursor()
+    cursor.execute('DELETE from Books where bookID = {0}'.format(bookID))
+    #send commit command to database
+    db.get_db().commit()
     return "Book was successfully deleted"
