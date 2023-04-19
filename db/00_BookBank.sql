@@ -110,7 +110,7 @@ CREATE TABLE CuratorAddress
     city      NVARCHAR(50),
     state     NVARCHAR(50),
     zip       NVARCHAR(50),
-    PRIMARY KEY (city, state, zip),
+    PRIMARY KEY (city, CuratorID),
     CONSTRAINT fk_05 FOREIGN KEY (CuratorID) REFERENCES Curator (CuratorID) on DELETE CASCADE
 );
 
