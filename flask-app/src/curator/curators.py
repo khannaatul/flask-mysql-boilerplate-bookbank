@@ -105,101 +105,31 @@ def curator_update(curatorid):
     return "Curator password was successfully updated"
 
 
-#post new book 
-@curators.route('/newbooks', methods = ['POST'])
-def add_book():
-
-    the_data = request.json
-    current_app.logger.info(the_data)
-
-    bookid = the_data['books_id']
-    first = the_data['books_first']
-    last = the_data['books_last']
-    pageCount = the_data['books_pageCount']
-    genre = the_data['books_genre']
-    title = the_data['books_title']
-    condition = the_data['books_conditionOfBook']
-    inBank = the_data['books_inBank']
-    isPhysical = the_data['books_isPhysical']
-    numCopies = the_data['books_numCopies']
-    synopsis = the_data['books_synopsis']
-
-
-    query = 'Insert into Books (bookID, first, last, pageCount, genre, title, conditionOfBook,inBank, isPhysical, numCopies, synopsis) values(" '
-    query += str(bookid)  + ' " , " '
-    query += first  + ' " , " ' 
-    query += last + ' " , " ' 
-    query += str(pageCount) + ' " , " '
-    query += genre + ' " , " ' 
-    query += title + ' " , " '
-    query += condition + ' " , " '
-    query += str(inBank)  + ' " , " '
-    query += str(isPhysical) + ' " , " '
-    query += str(numCopies) + ' " , " '
-    query += synopsis +  ' ")'
-
-    current_app.logger.info(query)
-
-
-    # executing and commitimg the insert statement
-    # get a cursor object from the database
+#get first 5 curators
+@curators.route('/first5')
+def get_first_curators():
     cursor = db.get_db().cursor()
+    query = '''
+        SELECT first, last, username, email
+        FROM Curator
+        ORDER BY CuratorID 
+        LIMIT 5
+    '''
     cursor.execute(query)
+    #grab the column headers from the returned data
+    column_headers = [x[0] for x in cursor.description]
 
-    #send commit command to database
-    db.get_db().commit()
+    #create an empty dictionary object to use in 
+    #putting column headers together with data
+    json_data = []
 
-    return 'Success'
+    #fetch all the data from the cursor
+    theData = cursor.fetchall()
 
+    # for each of the rows, zip the data elements together with
+    #the column headers. 
+    for row in theData:
+        json_data.append(dict(zip(column_headers, row)))
 
-#delete book
-@curators.route("/bookdelete/<bookid>", methods=["DELETE"])
-def book_delete(bookid):
-    cursor = db.get_db().cursor()
-    cursor.execute('DELETE from Books where bookID = {0}'.format(bookid))
-    #send commit command to database
-    db.get_db().commit()
-    return "Book was successfully deleted"
+    return jsonify(json_data)
 
-
-
-""" # update curators username
-@curators.route("/curatorsusername/<curatorid>", methods=["PUT"])
-def curators_update(curatorid):
-    newusername= request.json['username']
-    cursor = db.get_db().cursor()
-
-    query = "UPDATE Curator SET username = '%s' WHERE CuratorID = '%s'"%(newusername,curatorid)
-
-    cursor.execute(query)
-    #send commit command to database
-    db.get_db().commit()
-    return  "Curator username was successfully updated"
-
-# update Curator email
-@curators.route("/curatorseemail/<curatorid>", methods=["PUT"])
-def curator_update(curatorid):
-    newemail= request.json['email']
-    cursor = db.get_db().cursor()
-
-    query = "UPDATE Curator SET email = '%s' WHERE CuratorID = '%s'"%(newemail,curatorid)
-
-    cursor.execute(query)
-    #send commit command to database
-    db.get_db().commit()
-    return  "Curator email was successfully updated"
-
-
-# update Curator name
-@curators.route("/curatorsname/<curatorid>", methods=["PUT"])
-def curator_update(curatorid):
-    newfirst= request.json['email']
-    newlast= request.json['last']
-    cursor = db.get_db().cursor()
-
-    query = "UPDATE Curator SET first = '%s', last = '%s' WHERE CuratorID = '%s'"%(newfirst,newlast,curatorid)
-
-    cursor.execute(query)
-    #send commit command to database
-    db.get_db().commit()
-    return  "Curator name was successfully updated" """

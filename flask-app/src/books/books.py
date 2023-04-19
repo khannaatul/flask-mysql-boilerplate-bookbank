@@ -34,7 +34,8 @@ def get_books():
 
     return jsonify(json_data)
 
-# # get the top 5 books from the database
+
+""" # get the top 5 books from the database with good condition
 # @books.route('/mostExpensive')
 # def get_most_pop_books():
 #     cursor = db.get_db().cursor()
@@ -60,7 +61,7 @@ def get_books():
 #     for row in theData:
 #         json_data.append(dict(zip(column_headers, row)))
 
-#     return jsonify(json_data)
+#     return jsonify(json_data) """
 
 
 @books.route('/newbook', methods = ['POST'])
