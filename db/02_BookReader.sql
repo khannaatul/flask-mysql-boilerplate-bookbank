@@ -140,7 +140,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9363,'Teresa','McMakin','tmcmakin3t@e-recht24.de','tmcmakin3t','7Nm7Zgauan4R','Otyń',NULL,'67-101');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6555,'Jordain','Oboy','joboy3u@theatlantic.com','joboy3u','L5UZGcScR','Marystown','Newfoundland and Labrador','L2N');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7350,'Herminia','Senett','hsenett3v@merriam-webster.com','hsenett3v','sOVnUFk','Yangju',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9363,'Grata','Farey','gfarey3w@java.com','gfarey3w','TxP4dRwFqm','Badou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3996,'Gretal','Manjot','gmanjot3x@indiegogo.com','gmanjot3x','bkx21D0Y','Santa Rosa',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3332,'Lionel','Bassano','lbassano3y@statcounter.com','lbassano3y','s1pAgdt','Luso','Aveiro','3050-225');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6767,'Aksel','Teek','ateek3z@vistaprint.com','ateek3z','JNJTzXs05q','Hoopstad',NULL,'5121');
@@ -194,7 +193,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9023,'Hillel','Bather','hbather5b@myspace.com','hbather5b','NkW1Nz2D27','Las Varas',NULL,'5941');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8318,'Elsbeth','Postle','epostle5c@ucla.edu','epostle5c','unYcrj','Pliwetan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5888,'Rodge','Bedenham','rbedenham5d@yahoo.co.jp','rbedenham5d','0IsNdsMx','Heqiao',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6663,'Shir','Capponer','scapponer5e@sourceforge.net','scapponer5e','lywR8vZk0jFg','Fuzhou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3528,'Winne','Millican','wmillican5f@psu.edu','wmillican5f','cNPAqcLDlO','Kuala Lumpur','Kuala Lumpur','59800');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8560,'Sly','Windham','swindham5g@eventbrite.com','swindham5g','lZTcyx5Ph09','Qingxi',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5294,'Tiebout','Fiddyment','tfiddyment5h@sogou.com','tfiddyment5h','KFXp46JT','Lokosovo',NULL,'368814');
@@ -205,7 +203,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1883,'Deeann','Reglar','dreglar5m@usda.gov','dreglar5m','D0eBp3PX','Nishinoomote',NULL,'891-3101');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5310,'Gardner','Verick','gverick5n@wsj.com','gverick5n','pFPsZG','Salisbury',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4404,'Tammie','Catterill','tcatterill5o@ycombinator.com','tcatterill5o','PwgLGqa','Dalheim',NULL,'L-5687');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6767,'Court','Yorke','cyorke5p@about.me','cyorke5p','4MyHWFJldu','Santana do Ipanema',NULL,'57500-000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2191,'Claudianus','Uden','cuden5q@economist.com','cuden5q','34DOmLZBHV','Belfort','Franche-Comté','90020 CEDEX');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4072,'Giffie','Bignold','gbignold5r@telegraph.co.uk','gbignold5r','WW9JT8','Tajerouine',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7170,'Margaret','Sayes','msayes5s@newyorker.com','msayes5s','LuK7l9Yu','Stari Lec',NULL,NULL);
@@ -218,7 +215,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1256,'Phyllida','Decker','pdecker5z@tmall.com','pdecker5z','3FCr9ScuZHL7','Guérande','Pays de la Loire','44356 CEDEX');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4644,'Tanitansy','Petley','tpetley60@loc.gov','tpetley60','ErHx6zloftl','Burgaltay',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4587,'Ursuline','Ilieve','uilieve61@indiatimes.com','uilieve61','LGra0giBTSro','Warburton',NULL,'39180');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5724,'Cleon','Cratchley','ccratchley62@blogs.com','ccratchley62','dIHg16x','Asaita',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9885,'Madison','Francesconi','mfrancesconi63@indiatimes.com','mfrancesconi63','zydANg3Bo2H','Ibagué',NULL,'730019');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8436,'Elva','Slimings','eslimings64@lulu.com','eslimings64','v4tyJcOj','Káto Miliá',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5556,'Sutherlan','Murtagh','smurtagh65@odnoklassniki.ru','smurtagh65','w8XwIq','Čajetina',NULL,NULL);
@@ -297,7 +293,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5087,'Ari','Frushard','afrushard86@nature.com','afrushard86','TNXKLu9asfp','Famatina',NULL,'4203');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (22,'Alvinia','Jedryka','ajedryka87@hugedomains.com','ajedryka87','Dp5InZ3CV','Ludishan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7551,'Horace','Raiment','hraiment88@yandex.ru','hraiment88','YaxboN6tsk','Sangojar',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5447,'Liane','Trees','ltrees89@stumbleupon.com','ltrees89','zw82yVwJsC','Sumberbakti',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3003,'Arnaldo','Marien','amarien8a@dailymotion.com','amarien8a','r2TTJfhe','Los Ángeles',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6489,'Jordana','Pepall','jpepall8b@npr.org','jpepall8b','BLJoDn','Strasbourg','Alsace','67013 CEDEX');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8920,'Paulina','Riddich','priddich8c@nhs.uk','priddich8c','64IJfFcWMw1','Bolaoit',NULL,'2422');
@@ -382,12 +377,10 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1854,'Orran','Hanbidge','ohanbidgeaj@timesonline.co.uk','ohanbidgeaj','7Efu3SAjH','Villa Urquiza',NULL,'4000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9913,'Cornie','Craufurd','ccraufurdak@livejournal.com','ccraufurdak','YEWJQFP56r','Kedungbanteng Krajan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3435,'Brook','MacSkeagan','bmacskeaganal@artisteer.com','bmacskeaganal','OSPazLBost','Gaio','Setúbal','2860-613');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5447,'Brnaba','Stairmond','bstairmondam@google.pl','bstairmondam','JaUDOQPS1b','Leifeng',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1332,'Caressa','Tolotti','ctolottian@surveymonkey.com','ctolottian','4505iTR','Tabia',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (112,'Valentino','Bauldry','vbauldryao@weather.com','vbauldryao','JFRPfpb','Ruyigi',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7405,'Kimberly','Crispin','kcrispinap@mapquest.com','kcrispinap','kZmiwp','Nong Khai',NULL,'48130');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3829,'Margarette','Pullan','mpullanaq@yahoo.co.jp','mpullanaq','yoJJ2CUSsY4M','Gornorechenskiy',NULL,'692425');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6783,'Keane','Cropton','kcroptonar@blogs.com','kcroptonar','8lZF3uPPfMq','Sindou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9867,'Vidovic','MacCardle','vmaccardleas@twitter.com','vmaccardleas','GhQhRKx','Bralin',NULL,'63-640');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4982,'Ailsun','Larcombe','alarcombeat@bigcartel.com','alarcombeat','5bRnR8','La Trinidad',NULL,'2601');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9268,'Meggi','Hyslop','mhyslopau@nytimes.com','mhyslopau','M64oRBX','Kiruru',NULL,NULL);
@@ -402,16 +395,13 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7725,'Junina','Siccombe','jsiccombeb3@netscape.com','jsiccombeb3','SyZiqMcD8','Qitan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3302,'Lilly','Thirwell','lthirwellb4@stanford.edu','lthirwellb4','4zpBKJoQ','Guadalupe Victoria','Veracruz Llave','93856');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5042,'Krysta','Crenage','kcrenageb5@rakuten.co.jp','kcrenageb5','H7mO3KhDQ','Besançon','Franche-Comté','25045 CEDEX');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9701,'Cristian','Barefoot','cbarefootb6@vkontakte.ru','cbarefootb6','sxCaMq','Thị Trấn Triệu Sơn',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8653,'Devondra','Bartrap','dbartrapb7@cpanel.net','dbartrapb7','0Ls2i1lq','Áyios Vasílios',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9779,'Walther','Andrichuk','wandrichukb8@toplist.cz','wandrichukb8','aKJS4UZBOgJ','Mufumbwe',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4769,'Justen','Yuille','jyuilleb9@aboutads.info','jyuilleb9','eCswLzYqt7k','Bang Phae',NULL,'70160');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5553,'Reuven','Calyton','rcalytonba@independent.co.uk','rcalytonba','pSCAPkfI','Penengahan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9095,'Theresa','Meneur','tmeneurbb@stumbleupon.com','tmeneurbb','GlL4VhZ9','Nedakonice',NULL,'687 38');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4454,'Brigg','Rosas','brosasbc@npr.org','brosasbc','wD9BbBVX7rr','Budy',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2628,'Bathsheba','Stollmeier','bstollmeierbd@last.fm','bstollmeierbd','vnBYXVLi8qf','Jardin','Veracruz Llave','93439');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3344,'Caprice','Kaas','ckaasbe@de.vu','ckaasbe','IviP4uEdScoq','Shiogama',NULL,'987-0058');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8060,'Ranee','Galpen','rgalpenbf@jalbum.net','rgalpenbf','HCupFbOifJz','Amnat Charoen',NULL,'70160');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8145,'Reiko','Whyke','rwhykebg@i2i.jp','rwhykebg','ygsxHiISUG','Matmata',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4243,'Noland','Ryam','nryambh@tripadvisor.com','nryambh','zsDaG6SsB','Hanjia',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (426,'Burton','Hotson','bhotsonbi@seesaa.net','bhotsonbi','2uiY7AF07ER','Aix-en-Provence','Provence-Alpes-Côte d''Azur','13540');
@@ -428,7 +418,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9832,'Caritta','McDavid','cmcdavidbt@examiner.com','cmcdavidbt','PlTb3DxwZK','Tianhe',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5046,'Sayre','Gillions','sgillionsbu@sitemeter.com','sgillionsbu','H5lQLTi','Kara-Balta',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5915,'Denice','Reynault','dreynaultbv@shareasale.com','dreynaultbv','CfYrKw','Xuxiake',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2146,'Arlan','Acedo','aacedobw@gmpg.org','aacedobw','ulJkJ6auQ','Krivodanovka',NULL,'630511');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3088,'Jillie','Ferrillo','jferrillobx@bloomberg.com','jferrillobx','o1H2O5','Pazin',NULL,'52000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6253,'Braden','Culshaw','bculshawby@goo.ne.jp','bculshawby','WvGC1E','Corrientes',NULL,'3400');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1709,'Mic','Matisse','mmatissebz@digg.com','mmatissebz','PVvmtu0','Norashen',NULL,NULL);
@@ -480,10 +469,8 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5165,'Mallorie','Sowten','msowtend9@addtoany.com','msowtend9','tAtvZpg79Y','Norfolk','Virginia','23509');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2647,'Marget','Michiel','mmichielda@netscape.com','mmichielda','sYarNADROI','Wilkes Barre','Pennsylvania','18706');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3903,'Cherilynn','Ackermann','cackermanndb@amazon.de','cackermanndb','j8YVP58','Guernica',NULL,'1862');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3853,'Nicolina','Hamelyn','nhamelyndc@comsenz.com','nhamelyndc','tKTzc7Pu0U','Futian',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1106,'Waring','Rushforth','wrushforthdd@yandex.ru','wrushforthdd','oi1X5dpWzHmZ','Zhelin',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5862,'Hermon','Govan','hgovande@wunderground.com','hgovande','4fWi4PEB9U','Jardin','Tamaulipas','87330');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6762,'Chadd','Hillborne','chillbornedf@360.cn','chillbornedf','IOqnLas','Lampa',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3254,'Britt','Emburey','bembureydg@nydailynews.com','bembureydg','nlfWWkVe','Axioúpoli',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9622,'Katherine','Kroon','kkroondh@nsw.gov.au','kkroondh','6jtLrVx4','Zoumaping',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3029,'Christen','Falks','cfalksdi@wix.com','cfalksdi','fAK7mC79Mh','Tanahedang',NULL,NULL);
@@ -492,14 +479,12 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6548,'Crin','Mills','cmillsdl@bloglines.com','cmillsdl','eIbto7dSkP','Springfield','Illinois','62723');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8396,'Korella','Toupe','ktoupedm@oakley.com','ktoupedm','Vw0eyJoLR','Mapiri',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7646,'Barb','Brewer','bbrewerdn@pcworld.com','bbrewerdn','2xyWHgQQE3P','Bacheng',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3720,'Yorker','Gilligan','ygilligando@macromedia.com','ygilligando','QDUeGw0Oom','Montpellier','Languedoc-Roussillon','34087 CEDEX 4');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (851,'Yul','Baus','ybausdp@china.com.cn','ybausdp','bwk6I7','Dapuchaihe',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7634,'Gene','Pogue','gpoguedq@utexas.edu','gpoguedq','sa1cgWYmok3','Cisek',NULL,'47-253');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4462,'Harold','Arnot','harnotdr@abc.net.au','harnotdr','9Eghpb','Hat Yai',NULL,'90110');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2282,'Morton','Schrinel','mschrinelds@reverbnation.com','mschrinelds','SFccFAn','Utan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (809,'Peggi','Laimable','plaimabledt@jugem.jp','plaimabledt','VlrpOUdrQ','Símantra',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (135,'Ferdinande','Giacomelli','fgiacomellidu@ucsd.edu','fgiacomellidu','hbetpgBml','Tianqian',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2913,'Daryn','Bexon','dbexondv@sphinn.com','dbexondv','LCgMvoNuB','Một Ngàn',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9241,'Ritchie','Ledner','rlednerdw@github.io','rlednerdw','7EnEu5VztsHu','Sulaco',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9191,'Benita','Babber','bbabberdx@networksolutions.com','bbabberdx','y97kkJBu9','Pavlivka',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6453,'Sloane','Isherwood','sisherwooddy@howstuffworks.com','sisherwooddy','v9evZf','Casal de Cambra','Lisboa','2605-006');
@@ -509,7 +494,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7004,'Papagena','Eagles','peaglese2@live.com','peaglese2','MYah69','Groblersdal',NULL,'1064');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1817,'Datha','Leeds','dleedse3@omniture.com','dleedse3','epJAuipnM','Verba','Aveiro','3810-600');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4127,'Stirling','Mathivon','smathivone4@wikia.com','smathivone4','3wbVm2YmP','Wenwucao',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2028,'Ephrayim','Mitford','emitforde5@blinklist.com','emitforde5','yl6REwob','Dongfu',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6604,'Poul','Farge','pfargee6@issuu.com','pfargee6','0zRKVlTCL2','Haninge','Stockholm','136 68');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (968,'Orland','McGuckin','omcguckine7@mtv.com','omcguckine7','A5twPVZQuh','Xinhua',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4647,'Xavier','Jurasz','xjurasze8@webnode.com','xjurasze8','oyEziVK','Uarini',NULL,'69485-000');
@@ -545,10 +529,8 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8151,'Lucita','Aronson','laronsonf2@cam.ac.uk','laronsonf2','G3C1TT5rA97','Arras','Nord-Pas-de-Calais','62004 CEDEX');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3020,'Olly','Drewe','odrewef3@dyndns.org','odrewef3','tcnVUDqwR1','Quankou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1341,'Red','MacGiany','rmacgianyf4@kickstarter.com','rmacgianyf4','V0FSGzirgg','Sukarame',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3052,'Dorie','Greguoli','dgreguolif5@51.la','dgreguolif5','Ampezu','Banyliv',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2715,'Bondie','Attrie','battrief6@squidoo.com','battrief6','y8VTVCi','El Alamo','Sonora','83448');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3430,'Reyna','Lyster','rlysterf7@aol.com','rlysterf7','HQnLRKqWZ','Ranong',NULL,'85000');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3534,'Ingeberg','Prandin','iprandinf8@google.pl','iprandinf8','PUnybLM8Im','Jianshe',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2427,'Laney','Puller','lpullerf9@cbslocal.com','lpullerf9','PynDMFgwce','Oetutulul',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4993,'Dino','Tertre','dtertrefa@sun.com','dtertrefa','gxrjTmnv21','Maglaj',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7181,'Bronson','Vanner','bvannerfb@furl.net','bvannerfb','NiNiS70nP','Vancouver','Washington','98664');
@@ -585,7 +567,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5444,'Elisabeth','Dillway','edillwayg6@vk.com','edillwayg6','wzwSlLJml','Puntarenas',NULL,'60101');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2161,'Elyn','Leese','eleeseg7@hatena.ne.jp','eleeseg7','hkNmmmMUzFhb','Keelung',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5347,'Leanna','Pocock','lpocockg8@ebay.com','lpocockg8','DugwcIuoI','Cerrito',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7181,'Ashla','Champness','achampnessg9@4shared.com','achampnessg9','7NBAI3Xm81P','Kandete',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8860,'Gabriello','Mayne','gmaynega@de.vu','gmaynega','7tkf0Wmtj','La Mesa',NULL,'252608');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9368,'Giovanni','Ogg','gogggb@mapy.cz','gogggb','buCoZ14u','Ralung',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8488,'Lida','Shoebottom','lshoebottomgc@usnews.com','lshoebottomgc','KKkQ5PglS','Centenario',NULL,'8309');
@@ -617,7 +598,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5750,'Larina','Stemp','lstemph2@edublogs.org','lstemph2','OIYwhNwBPE5','Paris 03','Île-de-France','75151 CEDEX 03');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4995,'Edlin','Sloper','esloperh3@altervista.org','esloperh3','V9VpDmt','Itaperuçu',NULL,'83560-000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9741,'Torrie','Fass','tfassh4@springer.com','tfassh4','Zaa7Oe2','Jiuquan',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7221,'Chaim','Darling','cdarlingh5@upenn.edu','cdarlingh5','f7Db6Vw','North Shore',NULL,'0748');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3501,'Stafford','Balharry','sbalharryh6@woothemes.com','sbalharryh6','swqfLjHRfmr','Las Palmas',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8368,'Bailey','Hellier','bhellierh7@aol.com','bhellierh7','GCVyFWGjJ3H','Sadang Kulon',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5574,'Marian','Crocken','mcrockenh8@paginegialle.it','mcrockenh8','iUkzUp66W','Ji Paraná',NULL,'68675-000');
@@ -660,7 +640,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4895,'Tore','Sumsion','tsumsioni9@pen.io','tsumsioni9','vNJy9Psym9','Kajanan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7951,'Milo','Choules','mchoulesia@myspace.com','mchoulesia','CdIpfNK8z','Ed','Västra Götaland','668 92');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (313,'Miguelita','Bullock','mbullockib@ning.com','mbullockib','ANZF7Yt33','Bentar',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7590,'Crawford','Dinzey','cdinzeyic@edublogs.org','cdinzeyic','kbNwwlsF43iv','Gus’-Khrustal’nyy',NULL,'601508');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7523,'Sheridan','Lilly','slillyid@shop-pro.jp','slillyid','HVp9KoV2hJ','Rychvald',NULL,'735 32');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4324,'Taylor','Bemrose','tbemroseie@patch.com','tbemroseie','nSzxotn07Sjp','Forssa',NULL,'30421');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9729,'Lindsay','Gheeorghie','lgheeorghieif@springer.com','lgheeorghieif','BZekDXaL','Bandar-e Māhshahr',NULL,NULL);
@@ -674,14 +653,11 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3033,'Allyson','Hay','ahayin@time.com','ahayin','DeKcWUc','Dvinskoy',NULL,'165500');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1958,'Kimble','Binton','kbintonio@over-blog.com','kbintonio','4te5tzf1BbTE','Feliciano',NULL,'5610');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9648,'Thorsten','Aikin','taikinip@skype.com','taikinip','uiLqyYxDuGF','Santa Anita','Guanajuato','38900');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2968,'Dulcia','Breadon','dbreadoniq@artisteer.com','dbreadoniq','AAiRMJe2t','Cennan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9334,'Jackie','Medhurst','jmedhurstir@w3.org','jmedhurstir','zcclZgcO','Ordynskoye',NULL,'633260');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3591,'Melany','Shyre','mshyreis@nba.com','mshyreis','PPXau6','Huanggang',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8774,'Martin','Itscowicz','mitscowiczit@hp.com','mitscowiczit','y9sVy3','Jingyao',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1690,'Audie','Pezey','apezeyiu@va.gov','apezeyiu','2pirz6B4OXK5','San Rafael','Guerrero','41640');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (799,'Fax','Klimentov','fklimentoviv@netlog.com','fklimentoviv','Na1eAgWdjs7','Pancol',NULL,'3200');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1247,'Gerard','Brand-Hardy','gbrandhardyiw@github.io','gbrandhardyiw','2TfP01','Pianling',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4127,'Clyve','Pellamonuten','cpellamonutenix@wiley.com','cpellamonutenix','dUvnmkX','Anju',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4743,'Karee','Dreher','kdreheriy@over-blog.com','kdreheriy','GUCaL40Q2kvf','Zebrzydowice',NULL,'43-410');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2888,'Innis','Fishwick','ifishwickiz@lulu.com','ifishwickiz','fAFRiH5Gi','Sison',NULL,'8404');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9253,'Pepillo','Boutton','pbouttonj0@reverbnation.com','pbouttonj0','SIsSomfHH5l','Kālābāgh',NULL,'42360');
@@ -701,7 +677,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (172,'Ignace','Luciano','ilucianoje@storify.com','ilucianoje','p9nbLz5ph','Kameoka',NULL,'992-0321');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9696,'Osborne','Hurkett','ohurkettjf@nsw.gov.au','ohurkettjf','u1qnyEi','Stockholm','Stockholm','118 50');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7011,'Jaime','Gayle','jgaylejg@hugedomains.com','jgaylejg','g1Wad6IE','Salinggara',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5219,'Juliet','Aimson','jaimsonjh@wired.com','jaimsonjh','hPPdHR1OO7Cf','Cirangrang',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1126,'Marv','Melross','mmelrossji@addthis.com','mmelrossji','IifuYR','Amsterdam Oud Zuid en Rivierenbuurt','Provincie Noord-Holland','1079');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7102,'Stephana','Cassius','scassiusjj@chicagotribune.com','scassiusjj','Me5BWQSs','Kvasiny',NULL,'517 02');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (884,'Paola','Guerri','pguerrijk@nytimes.com','pguerrijk','9n6eiAG4FvR','Novokubansk',NULL,'352244');
@@ -710,7 +685,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6791,'Mitch','MacEllen','mmacellenjn@mayoclinic.com','mmacellenjn','uW4vV4XlFu','Armenia',NULL,'630008');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3372,'Greggory','Awcock','gawcockjo@intel.com','gawcockjo','DH4WJDYZAUrH','Pashkovskiy',NULL,'385228');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5142,'Marylynne','Radenhurst','mradenhurstjp@dmoz.org','mradenhurstjp','9yfo1310Ka9p','Rosthern','Saskatchewan','B0L');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (172,'Darlleen','Wadlow','dwadlowjq@hexun.com','dwadlowjq','KajPWwch','Cruz de Pau','Setúbal','2845-005');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1334,'Roselle','Hawkswood','rhawkswoodjr@webeden.co.uk','rhawkswoodjr','uJYm6b','Antsohimbondrona',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2623,'Kellen','Exeter','kexeterjs@illinois.edu','kexeterjs','D5iva0Dda1Rr','Maluso',NULL,'7303');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7641,'Giorgi','Bruni','gbrunijt@prlog.org','gbrunijt','9fAh426S7','Satipo',NULL,NULL);
@@ -758,7 +732,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8657,'Corabella','Britner','cbritnerkz@usgs.gov','cbritnerkz','44MUb0dgMU','Valence','Rhône-Alpes','26009 CEDEX');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4869,'Kimberley','Waliszewski','kwaliszewskil0@biglobe.ne.jp','kwaliszewskil0','xATthFgMSK2l','Nikol’sk',NULL,'630025');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1983,'Nannie','Rickman','nrickmanl1@prlog.org','nrickmanl1','NBxxWm655pXk','Trosa','Södermanland','619 35');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5176,'Barrett','Bazelle','bbazellel2@constantcontact.com','bbazellel2','RZpdjf','Orguz',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8029,'Valina','Westphal','vwestphall3@mit.edu','vwestphall3','brin0wFwnKe','Hyltebruk','Halland','314 32');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9613,'Annamarie','Lawrance','alawrancel4@stumbleupon.com','alawrancel4','izi1YkYi2W','Xiamujiao',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3588,'Antons','Woolaston','awoolastonl5@wikimedia.org','awoolastonl5','Jxqef1rci9','Sampao',NULL,'8113');
@@ -778,7 +751,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3874,'Candie','Jurick','cjuricklj@soundcloud.com','cjuricklj','bEjMzPJ8xi','La Falda',NULL,'4640');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (875,'Rosalie','Penning','rpenninglk@independent.co.uk','rpenninglk','tXuiShba2ruK','Jiantou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6209,'Claribel','O''Grogane','cogroganell@ft.com','cogroganell','iZJPcewHan9V','Ochota',NULL,'05-090');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3641,'Nancy','Keener','nkeenerlm@blogtalkradio.com','nkeenerlm','fbsgUau9aO','Sukasari',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6195,'Aloysia','Jackling','ajacklingln@who.int','ajacklingln','EO8ZHcSJE84k','Guisijan',NULL,'5705');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8016,'Phebe','McKissack','pmckissacklo@bbc.co.uk','pmckissacklo','renFcqx2oz1','Sukabumi',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7126,'Royce','Issit','rissitlp@ox.ac.uk','rissitlp','oyV8bLdFu70','Aipe',NULL,'411008');
@@ -786,10 +758,8 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7930,'Cammy','Oxley','coxleylr@narod.ru','coxleylr','T6vJNi','Lindome','Västra Götaland','437 92');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (605,'Nicolas','Whiteford','nwhitefordls@artisteer.com','nwhitefordls','Jn1cixGobbM','Al Fukhkhārī',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9997,'Tana','Anfonsi','tanfonsilt@chron.com','tanfonsilt','iqK23W','Sioguí Abajo',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7981,'Nate','Woollin','nwoollinlu@booking.com','nwoollinlu','mqW4svL','Shiraoka',NULL,'349-0218');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2389,'Amalle','Edgerly','aedgerlylv@wiley.com','aedgerlylv','EcEAZT9vB','Glugu',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2485,'Marlie','Alabaster','malabasterlw@omniture.com','malabasterlw','4zumye','Black River',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (220,'Anton','Marder','amarderlx@google.com.hk','amarderlx','aQw2ce2W','Górzno',NULL,'87-320');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1625,'Shannah','Cassedy','scassedyly@tumblr.com','scassedyly','ktby7pk','Paita',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5971,'Dallas','Livoir','dlivoirlz@wikispaces.com','dlivoirlz','bOzvqSDnpyJ','Ferraz de Vasconcelos',NULL,'08500-000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8696,'Mag','Quenell','mquenellm0@unblog.fr','mquenellm0','p3IwY3h','Monastyrishche',NULL,'692380');
@@ -813,7 +783,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6287,'Chauncey','Call','ccallmi@buzzfeed.com','ccallmi','TzQqkeOXaxto','Yutan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7886,'Rene','Koschek','rkoschekmj@hubpages.com','rkoschekmj','vs3AMraGZ4','Río Ceballos',NULL,'5113');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6169,'Ryun','O''Gormally','rogormallymk@addthis.com','rogormallymk','4OQO3b2YPZ','Krasnopillya',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (921,'Tessy','Buscombe','tbuscombeml@microsoft.com','tbuscombeml','jcpcbC','Rousínov',NULL,'683 01');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (211,'Rosalie','Dearth','rdearthmm@freewebs.com','rdearthmm','lBV2YEKD0oTW','Tô Hạp',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7643,'Talya','Cathenod','tcathenodmn@pinterest.com','tcathenodmn','cwF4QYY0','‘Awartā',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9807,'Ginger','Aneley','ganeleymo@fotki.com','ganeleymo','pV6Txu','Jiahe',NULL,NULL);
@@ -824,7 +793,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3955,'Pascal','Hinemoor','phinemoormt@prweb.com','phinemoormt','OnJmAiA8X9g','Almaznyy',NULL,'678181');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8048,'Hanni','Hinstridge','hhinstridgemu@reverbnation.com','hhinstridgemu','VR97HNGq0s','Acherítou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (703,'Jobyna','Farish','jfarishmv@twitpic.com','jfarishmv','wrQZP5YrStE','Belung Satu',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7796,'Etienne','MacMenamy','emacmenamymw@ezinearticles.com','emacmenamymw','7pLqHu4hF','Jiawu',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3584,'Deidre','Jindacek','djindacekmx@eventbrite.com','djindacekmx','PI1zCMTxV','Jiucheng',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7080,'Geoffry','Rimell','grimellmy@intel.com','grimellmy','4QXDwvee','Anadia','Aveiro','3780-204');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3048,'Vania','Renackowna','vrenackownamz@huffingtonpost.com','vrenackownamz','wuHl93y','Yangzhuang',NULL,NULL);
@@ -835,7 +803,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3292,'Aubrette','Mingey','amingeyn4@macromedia.com','amingeyn4','dxgH3KGxJevb','Killarney','Manitoba','V9B');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (907,'Carilyn','Danilchenko','cdanilchenkon5@webs.com','cdanilchenkon5','ck6jwor','Skärhamn','Västra Götaland','471 31');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2843,'Hasty','Eggleton','heggletonn6@ifeng.com','heggletonn6','rBUcH7vwec2q','Libofshë',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4466,'Raychel','Kinnen','rkinnenn7@alibaba.com','rkinnenn7','6GO77gs4ey','Rača',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6412,'Helen','Yeude','hyeuden8@bigcartel.com','hyeuden8','H8r1gyyO6Ik','Barg-e Matāl',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4457,'Wilhelmina','Doctor','wdoctorn9@tinyurl.com','wdoctorn9','twId6ac','Gusong',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2569,'Bern','Renahan','brenahanna@mtv.com','brenahanna','g6fjs58IKDp','Longmiao',NULL,NULL);
@@ -851,7 +818,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6709,'Clio','Kenrat','ckenratnk@accuweather.com','ckenratnk','LNZyO1gj','Andrijaševci',NULL,'32271');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2040,'Rosalynd','Senogles','rsenoglesnl@bloomberg.com','rsenoglesnl','RAdmqE3','Pittsburgh','Pennsylvania','15266');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5051,'Phedra','Robillart','probillartnm@oaic.gov.au','probillartnm','jbvDedNq9P0','Yaogu',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5828,'Herrick','Tutchell','htutchellnn@arstechnica.com','htutchellnn','FsTloDxX71','Mirimire',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2475,'Gabriel','Waltering','gwalteringno@exblog.jp','gwalteringno','9lBZj8','Fullerton','California','92640');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4714,'Berna','Mattingly','bmattinglynp@clickbank.net','bmattinglynp','M9lXCwZy4u','Bobadela','Coimbra','3405-006');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8627,'Theressa','Riccioppo','tricciopponq@myspace.com','tricciopponq','yp7BTcyA4Yl0','Sātkhira',NULL,'9283');
@@ -875,7 +841,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2501,'Ada','Stepney','astepneyo8@un.org','astepneyo8','Zln69RAFbG6','Sieroszewice',NULL,'63-405');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2164,'Glad','Plane','gplaneo9@shinystat.com','gplaneo9','d8ADHGgL','Junik',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3064,'Atalanta','Maryet','amaryetoa@fc2.com','amaryetoa','AVFiWUM','Buzhakan',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4161,'Yalonda','Walmsley','ywalmsleyob@si.edu','ywalmsleyob','CwsQVkzt','Kham Sakae Saeng',NULL,'30290');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4426,'Harris','Stimpson','hstimpsonoc@tuttocitta.it','hstimpsonoc','1QQ6BswAE','Paraparaumu',NULL,'5254');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4538,'Kendrick','Skerritt','kskerrittod@symantec.com','kskerrittod','71BrQV09wrO','Novozavedennoye',NULL,'357813');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2415,'Hedwiga','Ughi','hughioe@cmu.edu','hughioe','9mHgNf','Al Ḩāḑir',NULL,NULL);
@@ -884,14 +849,11 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7669,'Dawn','McElree','dmcelreeoh@ovh.net','dmcelreeoh','HeV1uRBu','Zhushan',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9822,'Honoria','Sheering','hsheeringoi@nba.com','hsheeringoi','sGDe2CfJ','Jatirejo',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6873,'Emmye','Struijs','estruijsoj@google.co.jp','estruijsoj','qFliJMy4g0','Alajuelita',NULL,'11001');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8447,'Clem','Handmore','chandmoreok@ustream.tv','chandmoreok','goUWsfg0','Naran Bulag',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9219,'Torin','Knellen','tknellenol@google.pl','tknellenol','KlGpAz','Raków',NULL,'26-035');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4474,'Korie','Lintott','klintottom@biglobe.ne.jp','klintottom','2VbgJ3','Severnyy',NULL,'346763');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9944,'Rosamund','Tumber','rtumberon@ehow.com','rtumberon','ZP5LULno0','Ganshui',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7979,'Rayshell','Giorgeschi','rgiorgeschioo@wix.com','rgiorgeschioo','cYZ6ti','Buritizeiro',NULL,'39280-000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1930,'Connie','Antonin','cantoninop@indiegogo.com','cantoninop','nMlwejk9H2','Kole',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2568,'Courtenay','Kiefer','ckieferoq@jigsy.com','ckieferoq','7hI34v9Ql','Panyambungan',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3472,'Adler','Rickcord','arickcordor@washington.edu','arickcordor','GJXqsNvklv','Shiraoka',NULL,'349-0218');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8233,'Cletus','Tremlett','ctremlettos@bluehost.com','ctremlettos','ZIW5uvHyAhM','Sardasht',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9164,'Antoinette','Spanswick','aspanswickot@parallels.com','aspanswickot','yP9Dv6E3S','Bhadrapur',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3850,'Consuelo','Rouby','croubyou@intel.com','croubyou','afj3yK6idc9f','Uticyacu',NULL,NULL);
@@ -908,13 +870,11 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2543,'Noemi','Mays','nmaysp5@yahoo.co.jp','nmaysp5','PdpX0eHiN7rk','Karabash',NULL,'456144');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9155,'Isahella','Eggins','iegginsp6@mozilla.com','iegginsp6','BgbZRdqlkL','Mabini',NULL,'6313');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8056,'Marlo','Ashfield','mashfieldp7@tripod.com','mashfieldp7','7euCXFjI','Tuqiao',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7350,'Susanne','Blaszkiewicz','sblaszkiewiczp8@macromedia.com','sblaszkiewiczp8','bqTFGIkOsQ8','Bairro','Lisboa','2580-164');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7624,'Rafaello','Byrom','rbyromp9@vinaora.com','rbyromp9','uDMUWsEraqQe','Huagu',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7466,'Willetta','Branche','wbranchepa@nhs.uk','wbranchepa','tYMFS9kc','Rozivka',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2087,'Elinore','Marchiso','emarchisopb@theatlantic.com','emarchisopb','BIunhQwr','Baiguo',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6319,'Milton','Martland','mmartlandpc@miitbeian.gov.cn','mmartlandpc','wsMTlmICyfyy','Ryūō',NULL,'407-0176');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5468,'Cristina','O'' Mara','comarapd@ucoz.ru','comarapd','Ywh2fnA4rC','Virginia',NULL,'9484');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3382,'Tate','Fake','tfakepe@livejournal.com','tfakepe','MgJ9Ay','Wuyang',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (588,'Reinhard','Gilder','rgilderpf@yellowpages.com','rgilderpf','twuhJMvs','Maracaibo',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6004,'Nappie','Hattam','nhattampg@examiner.com','nhattampg','kJoQcht3Mx','Pantubig',NULL,'1706');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7049,'Daria','Cyson','dcysonph@ihg.com','dcysonph','cWEFekpA3AZA','Kāleke Mandi',NULL,'52150');
@@ -929,17 +889,13 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2518,'Gloria','Ascraft','gascraftpq@infoseek.co.jp','gascraftpq','c72ShSJL','Kelo',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1274,'Coral','Lancetter','clancetterpr@purevolume.com','clancetterpr','WHN28B','Shajing',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8960,'Aldis','Batha','abathaps@sfgate.com','abathaps','w8CptOZz8nWA','Anuling',NULL,'4221');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1883,'Sherman','Hendrich','shendrichpt@csmonitor.com','shendrichpt','VXe72tpYyEy0','Sorang',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1353,'Fee','Umpleby','fumplebypu@nationalgeographic.com','fumplebypu','u4lExn61','Toliara',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7267,'Odie','Clift','ocliftpv@aboutads.info','ocliftpv','JO25SaKvPIV','Agualote',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1540,'Kaiser','Wegner','kwegnerpw@indiegogo.com','kwegnerpw','2LpBUx2CP','Ta’ Xbiex',NULL,'ZTN');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (8028,'Salem','Dragoe','sdragoepx@t-online.de','sdragoepx','ie0BiK','Paraíso',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4820,'Rachelle','Joblin','rjoblinpy@shutterfly.com','rjoblinpy','zRKBUOdWfHu','Quebrada Larga',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2855,'Donetta','Spirritt','dspirrittpz@smh.com.au','dspirrittpz','i7nqjq','Nonsan',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3521,'Christos','Yarrow','cyarrowq0@jimdo.com','cyarrowq0','ZDKNwb','Sumberkemuning',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (46,'Farrell','Barbara','fbarbaraq1@mac.com','fbarbaraq1','szSst9lH','Datong',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6279,'Markus','Bawme','mbawmeq2@linkedin.com','mbawmeq2','DN6xKJYJzR','Āwash',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9822,'Kimbra','Garvie','kgarvieq3@sitemeter.com','kgarvieq3','1p3RJk6','Ananindeua',NULL,'67000-000');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9261,'Cathy','Morena','cmorenaq4@google.co.jp','cmorenaq4','NCtPvc','Bellavista',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3523,'Godwin','Guillond','gguillondq5@ezinearticles.com','gguillondq5','2EpLvmqE','Maanĭt',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9431,'Wernher','Vale','wvaleq6@free.fr','wvaleq6','WBuFh0','Uzunovo',NULL,'142960');
@@ -950,7 +906,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (9374,'Evin','Le Pine','elepineqb@joomla.org','elepineqb','VC4bwG1g6k','San Juan Sacatepéquez',NULL,'01059');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4206,'Sapphire','Bourgaize','sbourgaizeqc@hp.com','sbourgaizeqc','mqptBUc28','Falāvarjān',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1087,'Elston','McGrann','emcgrannqd@samsung.com','emcgrannqd','KkkuNoy2','Tumpukrenteng',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5664,'Dory','Mehaffey','dmehaffeyqe@cornell.edu','dmehaffeyqe','9ps4esTx','Qinā',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3421,'Koenraad','Rawling','krawlingqf@illinois.edu','krawlingqf','txxzoX7gm1l','Lab',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1025,'Gino','Boscott','gboscottqg@clickbank.net','gboscottqg','DLNQ7MOR','Pilar',NULL,'8420');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (501,'Harp','Thiem','hthiemqh@statcounter.com','hthiemqh','dfTrSf0UVyz','Heshui',NULL,NULL);
@@ -960,9 +915,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (706,'Whitby','Blackley','wblackleyql@infoseek.co.jp','wblackleyql','svSygf2mmk','East London',NULL,'5688');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4020,'Flora','Brixey','fbrixeyqm@netscape.com','fbrixeyqm','XUE6UVh','Carvalhais','Coimbra','3040-662');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (6740,'Jobye','Sturror','jsturrorqn@bbc.co.uk','jsturrorqn','9j8LOZO3tKM','Ke’erlun',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2606,'Phylys','Mincher','pmincherqo@github.io','pmincherqo','AaOnAMSm0FQ','Bunutan',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5652,'Marielle','Rulf','mrulfqp@businessinsider.com','mrulfqp','xiEO8PL4kZEr','Ugljevik',NULL,NULL);
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1025,'Sonja','Klimschak','sklimschakqq@1688.com','sklimschakqq','n3jTY9r347','Zhen’an',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3462,'Nathalie','Isgate','nisgateqr@mapquest.com','nisgateqr','XGdvc1DwCjS','Shuangmiao',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4844,'Andrej','Pritty','aprittyqs@google.nl','aprittyqs','cMyXyWpx','Mevo horon',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (138,'Aila','Roglieri','aroglieriqt@dedecms.com','aroglieriqt','T8a30TAW','Estância',NULL,'49200-000');
@@ -970,7 +922,6 @@ INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip)
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (1158,'Brade','Rowney','browneyqv@dion.ne.jp','browneyqv','xAiBfMUYqRK5','Timur',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (2821,'Amory','Penhaleurack','apenhaleurackqw@upenn.edu','apenhaleurackqw','6LDZMYg','Guaranda',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7205,'Ainslee','Vankin','avankinqx@canalblog.com','avankinqx','ZQN7zkjrzOj','Tolstoy-Yurt',NULL,'366013');
-INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (5556,'Wit','Shillom','wshillomqy@discovery.com','wshillomqy','M29RXamAqgz','Wangmo',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (3442,'Cchaddie','Willan','cwillanqz@simplemachines.org','cwillanqz','cqzl7QiD7','Solomenskoye',NULL,'357937');
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (7108,'Trina','Sigge','tsigger0@rakuten.co.jp','tsigger0','VLWkBITLzvyA','Zhangbagou',NULL,NULL);
 INSERT INTO BookReader(userid,first,last,email,username,password,city,state,zip) VALUES (4543,'Mavra','Tulley','mtulleyr1@ucoz.com','mtulleyr1','0WOpNU9ut62','Lesogorsk',NULL,'665501');
