@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify, make_response
+from flask import Blueprint, request, jsonify, make_response, current_app
 import json
 from src import db
 
@@ -69,31 +69,31 @@ def add_book():
     the_data = request.json
     current_app.logger.info(the_data)
 
-    first = the_data['book_first']
-    last = the_data['book_last']
-    pageCount = the_data['book_pageCount']
-    genre = the_data['book_genre']
-    title = the_data['book_title']
-    condition = the_data['book_conditionOfBook']
-    inBank = the_data['book_inBank']
-    isPhysical = the_data['book_Physical']
-    numCopies = the_data['book_numCopies']
-    synopsis = the_data['book_synopsis']
-    isAutographed = the_data['book_isAutographed']
+    bookid = the_data['books_id']
+    first = the_data['books_first']
+    last = the_data['books_last']
+    pageCount = the_data['books_pageCount']
+    genre = the_data['books_genre']
+    title = the_data['books_title']
+    condition = the_data['books_conditionOfBook']
+    inBank = the_data['books_inBank']
+    isPhysical = the_data['books_isPhysical']
+    numCopies = the_data['books_numCopies']
+    synopsis = the_data['books_synopsis']
 
 
-    query = 'Insert into books (first, last, pageCount, genre, title, conditionOfBook,inBank, isPhysical, numCopies, synopsis, isAutographed ) values(" '
+    query = 'Insert into Books (bookID, first, last, pageCount, genre, title, conditionOfBook,inBank, isPhysical, numCopies, synopsis) values(" '
+    query += str(bookid)  + ' " , " '
     query += first  + ' " , " ' 
-    query += last + ' " , ' 
-    query += str(pageCount) + ' " , '
-    query += genre + ' " , ' 
-    query += title + ' " , '
-    query += condition + ' " , '
-    query += inBank + ' " , '
-    query += isPhysical + ' " , '
-    query += str(numCopies) + ' " , '
-    query += synopsis + ' " , '
-    query += isAutographed + ')'
+    query += last + ' " , " ' 
+    query += str(pageCount) + ' " , " '
+    query += genre + ' " , " ' 
+    query += title + ' " , " '
+    query += condition + ' " , " '
+    query += str(inBank)  + ' " , " '
+    query += str(isPhysical) + ' " , " '
+    query += str(numCopies) + ' " , " '
+    query += synopsis +  ' ")'
 
     current_app.logger.info(query)
 
@@ -109,9 +109,9 @@ def add_book():
     return 'Success'
 
 
-@app.route("/book/<bookid>", methods=["DELETE"])
-def book_delete(bookid):
-    book = Books.query.get(bookid)
+@books.route("/bookdelete/<bookid>", methods=["DELETE"])
+def book_delete(bookID):
+    book = Books.query.get(bookID)
     db.session.delete(book)
     db.session.commit()
     return "Book was successfully deleted"

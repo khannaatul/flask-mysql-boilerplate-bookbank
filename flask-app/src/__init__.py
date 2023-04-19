@@ -32,6 +32,7 @@ def create_app():
     # Import the various routes
     from src.bookreaders.bookreaders import bookreaders
     from src.books.books  import books
+    from src.curator.curators  import curators
 
     # Register the routes that we just imported so they can be properly handled
     app.register_blueprint(bookreaders,   url_prefix='/br')

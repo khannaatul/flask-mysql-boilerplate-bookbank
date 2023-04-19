@@ -1,30 +1,101 @@
 [
   {
-    "_id": "0ea34622-0b8e-42b5-bd4f-684de50a54cd",
+    "_id": "cd3a9116-32c8-4d1a-9f70-4b90a42dd88d",
     "colId": "history",
     "containerId": "",
-    "name": "localhost:4000/books",
-    "url": "localhost:4000/books",
-    "method": "POST",
+    "name": "localhost:8001/br/bookreaders",
+    "url": "localhost:8001/br/bookreaders",
+    "method": "GET",
     "sortNum": 0,
-    "created": "2023-04-19T01:55:54.486Z",
-    "modified": "2023-04-19T01:55:54.486Z",
+    "created": "2023-04-19T10:51:44.749Z",
+    "modified": "2023-04-19T10:51:44.749Z",
     "headers": [],
     "params": [],
     "tests": []
   },
   {
-    "_id": "ad79f8ba-9406-4685-8210-5ab5b758809a",
+    "_id": "494bd392-07fa-46f4-8651-9022b6d56488",
     "colId": "history",
     "containerId": "",
-    "name": "localhost:8001/books",
-    "url": "localhost:8001/books",
-    "method": "POST",
+    "name": "localhost:8001/b/books",
+    "url": "localhost:8001/b/books",
+    "method": "GET",
     "sortNum": 0,
-    "created": "2023-04-19T01:56:00.656Z",
-    "modified": "2023-04-19T01:56:00.656Z",
+    "created": "2023-04-19T11:02:24.063Z",
+    "modified": "2023-04-19T11:02:24.063Z",
     "headers": [],
     "params": [],
+    "tests": []
+  },
+  {
+    "_id": "16f1c9cf-17cf-4f5a-b157-b0e1ba1b4e51",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8001/c/curators",
+    "url": "localhost:8001/c/curators",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-04-19T11:02:40.695Z",
+    "modified": "2023-04-19T11:37:32.426Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "2365397c-bdb0-473a-ae20-b216729e4fcc",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8001/b/newbook",
+    "url": "localhost:8001/b/newbook",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-19T11:19:36.702Z",
+    "modified": "2023-04-19T11:42:08.091Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"books_id\" : 0,\n    \"books_first\" : \"Elsie\",\n    \"books_last\" : \"Silver\",\n    \"books_pageCount\" : 301,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"Reckless\",\n    \"books_conditionOfBook\" : \"Good\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A small town romance\"\n  }",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "a06cf2e6-9eaf-44f7-899d-b78dcce947bd",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8001/br/newbookreaders",
+    "url": "localhost:8001/br/newbookreaders",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-19T11:48:38.510Z",
+    "modified": "2023-04-19T11:48:38.510Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"bookreader_id\" : 0,\n  \"bookreader_first\" : \"Keily\",\n  \"bookreader_last\" : \"Hernandez\",\n  \"bookreader_email\" : \"aa@email.com\",\n  \"bookreader_username\" : \"kk123\",\n  \"bookreader_password\" : \"abc123\",\n  \"bookreader_city\" : \"Boston\",\n  \"bookreader_state\" : \"Massachusetts\",\n  \"bookreader_zip\": \"02115\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "2442d886-3032-4f6d-9346-0b2986a0e3b2",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8001/c/newcurators",
+    "url": "localhost:8001/c/newcurators",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-04-19T11:57:41.545Z",
+    "modified": "2023-04-19T12:01:33.451Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"curator_id\" : 2,\n  \"curator_first\" : \"Tim\",\n  \"curator_last\" : \"Barnes\",\n  \"curator_email\" : \"Barnesn@email.com\",\n  \"curator_username\" : \"Barnes123\",\n  \"curator_password\" : \"Barnes123\",\n  \"curator_city\" : \"Ponce\",\n  \"curator_state\" : \"Puerto Rico\",\n  \"curator_zip\": \"00716\"\n}",
+      "form": []
+    },
     "tests": []
   }
 ]

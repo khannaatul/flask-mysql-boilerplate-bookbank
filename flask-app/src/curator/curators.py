@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify, make_response
+from flask import Blueprint, request, jsonify, make_response,  current_app
 import json
 from src import db
 
@@ -6,7 +6,7 @@ from src import db
 curators = Blueprint('curators', __name__)
 
 # Get all curators from the BookBank
-@curators.route('/curators ', methods=['GET'])
+@curators.route('/curators', methods=['GET'])
 def get_bookreaders():
     cursor = db.get_db().cursor()
     cursor.execute('SELECT CuratorID,\
@@ -22,7 +22,7 @@ def get_bookreaders():
     return the_response
 
 # Get curator detail for curator with particular curatorid
-@bcurators.route('/curators/<curatorid>', methods=['GET'])
+@curators.route('/curators/<curatorid>', methods=['GET'])
 def get_curator(curatorid):
     cursor = db.get_db().cursor()
     cursor.execute('select * from Curator where id = {0}'.format(userid))
@@ -44,24 +44,26 @@ def add_curator():
     the_data = request.json
     current_app.logger.info(the_data)
 
+    curatorid = the_data['curator_id']
     first = the_data['curator_first']
     last = the_data['curator_last']
     email = the_data['curator_email']
     username = the_data['curator_username']
     password = the_data['curator_password']
-    city = the data['curator_city']
-    state = the data['curator_state']
-    zip = the data['curator_zip']
+    city = the_data['curator_city']
+    state = the_data['curator_state']
+    zip = the_data['curator_zip']
 
-    query = 'Insert into curator (first, last, email, username, password, city, state, zip) values(" '
+    query = 'Insert into Curator (CuratorID, first, last, email, username, password, city, state, zip) values(" '
+    query += str(curatorid)  + ' " , " ' 
     query += first  + ' " , " ' 
-    query += last + ' " , ' 
-    query += email + ' " , ' 
-    query += username + ' " , '
-    query += password + ' " , '  
-    query += city + ' " , ' 
-    query += state + ' " , ' 
-    query += zip +  ')'
+    query += last + ' " , " ' 
+    query += email + ' " , " ' 
+    query += username + ' " , " '
+    query += password + ' " , " '  
+    query += city + ' " , " ' 
+    query += state + ' " , " ' 
+    query += zip +  ' ")'
 
     current_app.logger.info(query)
 
@@ -79,7 +81,7 @@ def add_curator():
 
 
 #delete curator
-@app.route("/curatordelete/<curatorid>", methods=["DELETE"])
+@curators.route("/curatordelete/<curatorid>", methods=["DELETE"])
 def curator_delete(curatorid):
     curator = Curator.query.get(curatorid)
     db.session.delete(curator)
@@ -90,7 +92,7 @@ def curator_delete(curatorid):
 
 
 # update curator username and password
-@app.route("/curatorupdate/<curatorid>", methods=["PUT"])
+@curators.route("/curatorupdate/<curatorid>", methods=["PUT"])
 def curator_update(curatorid):
     curator = Curator.query.get(curatorid)
     password = request.json['password']

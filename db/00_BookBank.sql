@@ -25,9 +25,9 @@ CREATE TABLE Curator
     email     VARCHAR(100),
     username  VARCHAR(100) UNIQUE,
     password  VARCHAR(100) NOT NULL,
-    City      VARCHAR(50),
+    city      VARCHAR(50),
     State     VARCHAR(50),
-    Zip       VARCHAR(50)
+    zip       VARCHAR(50)
 );
 
 

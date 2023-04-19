@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify, make_response
+from flask import Blueprint, request, jsonify, make_response, current_app
 import json
 from src import db
 
@@ -38,30 +38,32 @@ def get_bookreader(userid):
 
 
 
-@ookreaders.route('/newbookreaders', methods = ['POST'])
+@bookreaders.route('/newbookreaders', methods = ['POST'])
 def add_bookreader():
 
     the_data = request.json
     current_app.logger.info(the_data)
 
+    userid = the_data['bookreader_id']
     first = the_data['bookreader_first']
     last = the_data['bookreader_last']
     email = the_data['bookreader_email']
     username = the_data['bookreader_username']
     password = the_data['bookreader_password']
-    city = the data['bookreader_city']
-    state = the data['bookreader_state']
-    zip = the data['bookreader_zip']
+    city = the_data['bookreader_city']
+    state = the_data['bookreader_state']
+    zip = the_data['bookreader_zip']
 
-    query = 'Insert into bookreader (first, last, email, username, password, city, state, zip) values(" '
+    query = 'Insert into BookReader (userID, first, last, email, username, password, city, state, zip) values(" '
+    query += str(userid)  + ' " , " '
     query += first  + ' " , " ' 
-    query += last + ' " , ' 
-    query += email + ' " , ' 
-    query += username + ' " , '
-    query += password + ' " , '  
-    query += city + ' " , ' 
-    query += state + ' " , ' 
-    query += zip +  ')'
+    query += last + ' " , " ' 
+    query += email + ' " , " ' 
+    query += username + ' " , " '
+    query += password + ' " , " '  
+    query += city + ' " , " ' 
+    query += state + ' " , " ' 
+    query += zip +  ' ")'
 
     current_app.logger.info(query)
 
@@ -79,7 +81,7 @@ def add_bookreader():
 
 
 #delete bookreader
-@app.route("/bookreadersdelete/<userid>", methods=["DELETE"])
+@bookreaders.route("/bookreadersdelete/<userid>", methods=["DELETE"])
 def bookreader_delete(userid):
     bookreader = BookReader.query.get(userid)
     db.session.delete(bookreader)
@@ -88,7 +90,7 @@ def bookreader_delete(userid):
 
 
 # update bookreader username and password
-@app.route("/bookreadersupdate/<cuserid>", methods=["PUT"])
+@bookreaders.route("/bookreadersupdate/<cuserid>", methods=["PUT"])
 def curator_update(userid):
     bookreader = Curator.query.get(userid)
     password = request.json['password']
