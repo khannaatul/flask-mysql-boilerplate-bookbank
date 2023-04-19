@@ -138,7 +138,7 @@ def get_first_bookreaders():
 @bookreaders.route('/accounts')
 def get_accounts():
     cursor = db.get_db().cursor()
-    query = = '''
+    query = '''
         SELECT username, password
         FROM BookReader
     '''
