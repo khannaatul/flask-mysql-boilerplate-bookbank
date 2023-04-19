@@ -93,10 +93,12 @@ def bookreader_delete(userid):
 # update bookreader username and password
 @bookreaders.route("/bookreadersupdate/<userid>", methods=["PUT"])
 def bookreader_update(userid):
-    bookreader = get_bookreader(userid)
-    password = request.json['password']
+    newpassword = request.json['password']
+    cursor = db.get_db().cursor()
 
-    bookreader.password = password
+    query = "UPDATE BookReader SET password = '%s' WHERE userid = '%s'"%(newpassword,userid)
 
-    db.session.commit()
-    return "BookReader password was successfully updated"#bookreaders_schema.jsonify(bookreader)
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "BookReader password was successfully updated"

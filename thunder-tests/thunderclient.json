@@ -294,5 +294,81 @@
     "headers": [],
     "params": [],
     "tests": []
+  },
+  {
+    "_id": "7ecc084c-3842-4c6d-911f-bf512df4c7ac",
+    "colId": "bdbc9d5d-b395-4e3d-886c-5042db8f73bc",
+    "containerId": "",
+    "name": "localhost:8001/br/bookreadersupdate/0",
+    "url": "localhost:8001/br/bookreadersupdate/0",
+    "method": "PUT",
+    "sortNum": 10000,
+    "created": "2023-04-19T16:57:32.442Z",
+    "modified": "2023-04-19T16:57:32.442Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"password\" : \"keily123\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "92ed3ea8-942d-4e58-81a2-0c7f53ae8a0b",
+    "colId": "bdbc9d5d-b395-4e3d-886c-5042db8f73bc",
+    "containerId": "",
+    "name": "localhost:8001/br/bookreadersupdate/1",
+    "url": "localhost:8001/br/bookreadersupdate/1",
+    "method": "PUT",
+    "sortNum": 20000,
+    "created": "2023-04-19T16:57:41.657Z",
+    "modified": "2023-04-19T16:58:10.752Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"password\" : \"paola123\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "97b262b8-96ce-48f7-815f-7f6c0ac52947",
+    "colId": "60c42bf8-fd46-4756-acb3-29c65971dde8",
+    "containerId": "",
+    "name": "localhost:8001/c/curatorupdate/4",
+    "url": "localhost:8001/c/curatorupdate/4",
+    "method": "PUT",
+    "sortNum": 10000,
+    "created": "2023-04-19T17:02:34.297Z",
+    "modified": "2023-04-19T17:02:34.297Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"password\" : \"newpassTimBarnes\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "e4a58773-df54-413c-8e2c-535bf0c3cbdf",
+    "colId": "60c42bf8-fd46-4756-acb3-29c65971dde8",
+    "containerId": "",
+    "name": "localhost:8001/c/curatorupdate/3",
+    "url": "localhost:8001/c/curatorupdate/4",
+    "method": "PUT",
+    "sortNum": 20000,
+    "created": "2023-04-19T17:02:52.012Z",
+    "modified": "2023-04-19T17:03:24.043Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"password\" : \"newpassMonica\"\n}",
+      "form": []
+    },
+    "tests": []
   }
 ]
