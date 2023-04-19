@@ -7,8 +7,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6773,'Daisy','Wilne','dwilne4@europa.eu','dwilne4','t1BSLt','Nhà Bàng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6128,'Franny','Trusler','ftrusler5@stanford.edu','ftrusler5','DD0XRsjz','Lanlacuni Bajo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7486,'Inglis','Christiensen','ichristiensen6@answers.com','ichristiensen6','upgHqMfk','Colima',NULL,'11305');
--- INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7487,'Joshua','P','ichristiensen6@answers.com','ichristiensen6','upgHqMfk','Colima',NULL,'11303');
--- INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9482,'Udall','Cramp','ucramp7@comcast.net','ucramp7','NeTgzA','Degan',NULL,NULL);
+INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7487,'Joshua','P','ichristiensen6@answers.com','ichristiensen7','upgHqMfk','Colima',NULL,'11303');
+INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9482,'Udall','Cramp','ucramp7@comcast.net','ucramp7','NeTgzA','Degan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3987,'Chalmers','Purshouse','cpurshouse8@liveinternet.ru','cpurshouse8','oUxuGtF','Toyooka',NULL,'999-8316');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8950,'Yovonnda','Tinline','ytinline9@gravatar.com','ytinline9','jUrpY6e','Itaperuna',NULL,'28300-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2833,'Addi','Reuss','areussa@go.com','areussa','YxAyhB','Niaohe',NULL,NULL);
@@ -166,7 +166,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8083,'Timmy','Gunter','tgunter4i@tamu.edu','tgunter4i','byU9na4sTI','Taremskoye',NULL,'606135');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5962,'Britta','Jancey','bjancey4j@biglobe.ne.jp','bjancey4j','Lkvwby','Heiheba',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8965,'Arluene','Goadbie','agoadbie4k@wp.com','agoadbie4k','V7WttQB2yp','Girón',NULL,'687587');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2191,'Jeremias','Dearell','jdearell4l@pinterest.com','jdearell4l','PtRV15qsIege','Sijing',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9299,'Torey','Nielson','tnielson4m@weebly.com','tnielson4m','i5zAKDsBtKyz','Sanxing',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1247,'Kristoffer','Schaffel','kschaffel4n@desdev.cn','kschaffel4n','emHvIY','Caraga',NULL,'3710');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8722,'Lacey','Sheryn','lsheryn4o@sbwire.com','lsheryn4o','3FVjs0UDc3UK','Leticia',NULL,'910008');
@@ -211,7 +210,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8092,'Garland','Czyz','gczyz5r@nba.com','gczyz5r','2XUKBzotu8','María la Baja',NULL,'131077');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5062,'Wat','Lambrick','wlambrick5s@paginegialle.it','wlambrick5s','zBLFH8mrOuhU','Bacungan',NULL,'9216');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (386,'Koo','York','kyork5t@ft.com','kyork5t','t83yKeO5f','Salta',NULL,'4400');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4940,'Camille','Montgomery','cmontgomery5u@flavors.me','cmontgomery5u','92LPbhs4Q2c','Ten’gushevo',NULL,'607343');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8478,'Rafael','Vaudin','rvaudin5v@ebay.com','rvaudin5v','1ZsRmK2T','Ladário',NULL,'79370-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8614,'Horst','Stirland','hstirland5w@state.gov','hstirland5w','2BP02a9MwCu','Sâmraông',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6228,'Kari','Lauderdale','klauderdale5x@sina.com.cn','klauderdale5x','fWuvoAPH','Si Racha',NULL,'20110');
@@ -280,9 +278,7 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6981,'Zoe','Woolfoot','zwoolfoot7o@elpais.com','zwoolfoot7o','Bs8OiD','Głuchów',NULL,'96-130');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2513,'Frannie','Hesser','fhesser7p@google.co.jp','fhesser7p','gkjGMFaij','Neochóri',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9141,'Shurwood','Van Halen','svanhalen7q@posterous.com','svanhalen7q','NpFK70','Kampunglistrik',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3801,'Harli','Pol','hpol7r@jugem.jp','hpol7r','ZKQRNg0FQ','Renhe',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4572,'Donnie','Ough','dough7s@mtv.com','dough7s','Bwlyto','Křenovice',NULL,'752 01');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2528,'Keri','Petruska','kpetruska7t@domainmarket.com','kpetruska7t','osvgIu9bf5','Kupahandap',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (56,'Mirelle','Tudgay','mtudgay7u@seattletimes.com','mtudgay7u','z6wzy5gqkg8h','Honghuatao',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2136,'Wat','Poulney','wpoulney7v@eepurl.com','wpoulney7v','m9gl52NX','Pineleng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2203,'Kayne','Harkins','kharkins7w@squidoo.com','kharkins7w','BsAFoH','Lallayug',NULL,'6666');
@@ -306,7 +302,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8839,'Jeth','Hooke','jhooke8e@guardian.co.uk','jhooke8e','RC3Fya','Novorossiysk',NULL,'353993');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (784,'Isidore','Kuhnwald','ikuhnwald8f@bravesites.com','ikuhnwald8f','FT198AyXV6','Chalcos',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1156,'Pam','Teeney','pteeney8g@nytimes.com','pteeney8g','0MKxlZly0','Nuga',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (664,'Curr','Laudham','claudham8h@google.com','claudham8h','PmYeYkg','Yanshang',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8078,'Eunice','Kirstein','ekirstein8i@mtv.com','ekirstein8i','UpQNDQCD','Thap Khlo',NULL,'71000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6673,'Hugibert','Bielby','hbielby8j@cafepress.com','hbielby8j','ntjR3cIO0UI','Cruzeiro','Viana do Castelo','4960-110');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7754,'Zenia','Florey','zflorey8k@google.pl','zflorey8k','iOX9QCLXczv','Sollefteå','Västernorrland','881 86');
@@ -327,7 +322,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5813,'Lucio','Pauletti','lpauletti8z@pcworld.com','lpauletti8z','I6gOOlO','Amarillo','Texas','79165');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3282,'George','Thredder','gthredder90@smugmug.com','gthredder90','ARMuMSi','Västerås','Västmanland','724 63');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8890,'Ritchie','Jillis','rjillis91@addthis.com','rjillis91','GU1J7BwizLmt','San Miguel','Guanajuato','36352');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2180,'Gallard','Mucklo','gmucklo92@vimeo.com','gmucklo92','vuA0a6zKe','Ngampon',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2598,'Glynn','Hache','ghache93@home.pl','ghache93','adDp0CDc','Sacsamarca',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9818,'Cornell','Darrach','cdarrach94@acquirethisname.com','cdarrach94','TBTSC3uxyetc','Sanjiangkou',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5555,'Efrem','Glinde','eglinde95@dropbox.com','eglinde95','QuaCS7','Marolambo',NULL,NULL);
@@ -378,7 +372,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6232,'Dante','Mariotte','dmariotteae@tumblr.com','dmariotteae','d9vGUQ0Ef2U','Zhicheng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6298,'Davy','Whinray','dwhinrayaf@sitemeter.com','dwhinrayaf','c8YLwnezc','Pedreira','Coimbra','3220-313');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1395,'Terrence','Walkden','twalkdenag@youku.com','twalkdenag','oJZ6SE7ZhL','Taquara',NULL,'95600-000');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4178,'Carleton','Feldmesser','cfeldmesserah@nbcnews.com','cfeldmesserah','v2wcGs5Nh','Johanneshov','Stockholm','121 36');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3430,'Kalli','Hoffmann','khoffmannai@nba.com','khoffmannai','Wd2sRAoTWAl','Cala',NULL,'5455');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2863,'Cristin','Perone','cperoneaj@marriott.com','cperoneaj','a7Mv6yNn2s0','Duwe',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4843,'Diego','Larratt','dlarrattak@washingtonpost.com','dlarrattak','fu2u4e','Wawer',NULL,'37-750');
@@ -407,9 +400,7 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7829,'Stepha','Crab','scrabb7@ucla.edu','scrabb7','JradC39PLslu','Heilangkou',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (661,'Milo','Menloe','mmenloeb8@networksolutions.com','mmenloeb8','aEYp49RMy','Shabel’skoye',NULL,'353643');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6226,'Leontyne','Pumphrey','lpumphreyb9@microsoft.com','lpumphreyb9','cTqIx2h3E7g0','Banisilan',NULL,'9416');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4411,'Harley','Millwall','hmillwallba@about.com','hmillwallba','Z4qT3i7y','Nevers','Bourgogne','58017 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3885,'Lian','Sketh','lskethbb@goodreads.com','lskethbb','ARL9JNol','Xiadian',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1169,'Tedra','Wardle','twardlebc@hubpages.com','twardlebc','lxMav4Finar','Dacun',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6599,'Adele','Starsmeare','astarsmearebd@dion.ne.jp','astarsmearebd','SAynHRIC','Krujë',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6085,'Rollin','Cosgriff','rcosgriffbe@godaddy.com','rcosgriffbe','stw23RC06d3','Cotuí',NULL,'10210');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5918,'Marylin','Anmore','manmorebf@shinystat.com','manmorebf','3nUyir','Orlando','Florida','32825');
@@ -420,7 +411,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9322,'Dulcie','Lebrun','dlebrunbk@wix.com','dlebrunbk','pP9aIijI2BDr','Pulangbato',NULL,'6711');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2927,'Michel','Isakovic','misakovicbl@umn.edu','misakovicbl','8EHSR5hrj','Kumo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9215,'Dominick','McKeever','dmckeeverbm@geocities.com','dmckeeverbm','Va2W1DFM8KV','Moycullen',NULL,'A41');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9149,'Maurizia','Cettell','mcettellbn@surveymonkey.com','mcettellbn','DgWBdKq0KX20','Lyubimets',NULL,'6522');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8681,'Ardeen','De Beneditti','adebenedittibo@bigcartel.com','adebenedittibo','GULOgLr','Zwolle','Provincie Overijssel','8019');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6190,'Neill','Hillin','nhillinbp@theglobeandmail.com','nhillinbp','jo0frSFdqM','Luanshya',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6200,'Buffy','Del Checolo','bdelchecolobq@livejournal.com','bdelchecolobq','z58noUR4IhX','Chating',NULL,NULL);
@@ -439,14 +429,11 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2567,'Conny','Follis','cfollisc3@upenn.edu','cfollisc3','HE7yFUzlA8rh','Carquefou','Pays de la Loire','44474 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3055,'Emmerich','Akitt','eakittc4@cpanel.net','eakittc4','w05YFu','Armenia',NULL,'630008');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4918,'Cristiano','Valentin','cvalentinc5@slideshare.net','cvalentinc5','Fc4BiJxV31Y5','Sanhui',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2636,'Griselda','Balassi','gbalassic6@zdnet.com','gbalassic6','aOcGYOaxAs','Bairan',NULL,'4511');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6518,'Al','Van Arsdale','avanarsdalec7@tinyurl.com','avanarsdalec7','3mn19rkxsI','Moyo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3839,'Donielle','Peake','dpeakec8@clickbank.net','dpeakec8','wqDuyPRX','Gowarczów',NULL,'26-225');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1922,'Trstram','Holtom','tholtomc9@simplemachines.org','tholtomc9','tDt7FnhYy5','Otan Aiyegbaju',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8934,'Dougy','Azema','dazemaca@ucla.edu','dazemaca','lXTChkzGgi','Baishui',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (41,'Kassandra','Daelman','kdaelmancb@hubpages.com','kdaelmancb','cuQkoI3U7','Södertälje','Stockholm','152 31');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9496,'Stinky','Crippill','scrippillcc@uol.com.br','scrippillcc','xQYlAWC','Tongkiling',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3352,'Joby','Bunworth','jbunworthcd@barnesandnoble.com','jbunworthcd','6YGz88iBy','Paris 11','Île-de-France','75547 CEDEX 11');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9512,'Thedrick','Proffer','tprofferce@nationalgeographic.com','tprofferce','QtGZ7KuB','Rafael Perazza',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7274,'Nickey','Flaonier','nflaoniercf@mozilla.com','nflaoniercf','NHVM5HN','Miguel Hidalgo','Veracruz Llave','91140');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4418,'Andros','Huxham','ahuxhamcg@purevolume.com','ahuxhamcg','lQ39AJbX9','Skellefteå','Västerbotten','931 77');
@@ -470,16 +457,13 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4635,'Clint','Yorath','cyorathcy@phoca.cz','cyorathcy','8hgr4WLca','Bendo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9949,'Robin','Yurivtsev','ryurivtsevcz@japanpost.jp','ryurivtsevcz','fweRHQGqMS','La Huaca',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (408,'Melinde','Fance','mfanced0@yellowbook.com','mfanced0','SDiwR8ZQpL9J','Słubice',NULL,'69-101');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8289,'Ermanno','Poulett','epoulettd1@cornell.edu','epoulettd1','nzf66RfCb2','Ḩadīdah',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3858,'Angie','Curedell','acuredelld2@surveymonkey.com','acuredelld2','ithVGqCRBtk5','Saint Croix',NULL,'00851');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8068,'Spike','McDonogh','smcdonoghd3@linkedin.com','smcdonoghd3','9bDhmg','Velille',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8521,'Nannie','Lilian','nliliand4@china.com.cn','nliliand4','tMQaJbn','Teodoro Sampaio',NULL,'19280-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4772,'Darryl','Brittoner','dbrittonerd5@nyu.edu','dbrittonerd5','Kw4Z457I','Ouani',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7916,'Chelsie','Rigby','crigbyd6@go.com','crigbyd6','pFIukd5','Port-de-Bouc','Provence-Alpes-Côte d''Azur','13524 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9572,'Delcina','Giacopini','dgiacopinid7@phoca.cz','dgiacopinid7','EEFLQoiboSb','Patambuco',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2744,'Katina','Fairbrass','kfairbrassd8@printfriendly.com','kfairbrassd8','mK6e08z4pqC','Ituverava',NULL,'14500-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9890,'Robyn','Buckenham','rbuckenhamd9@google.com.br','rbuckenhamd9','WbJg3J8cM','Logung',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3097,'Robers','Daulton','rdaultonda@twitpic.com','rdaultonda','HTrGdYkRkE','Caringin',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3277,'Richie','Niaves','rniavesdb@businessinsider.com','rniavesdb','Hp0j8WeUBp','Xaçmaz',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5924,'Horst','Rowatt','hrowattdc@chronoengine.com','hrowattdc','sGI4YtJ','Simabur',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3626,'Teodoor','Dugald','tdugalddd@salon.com','tdugalddd','Oa77JDnCFY','Khotynets',NULL,'303930');
@@ -500,7 +484,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9085,'Corella','Kolinsky','ckolinskyds@whitehouse.gov','ckolinskyds','OQjZCUYrws','Valencia',NULL,'6306');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5300,'Frants','Catt','fcattdt@nifty.com','fcattdt','O2bwI4HxQB8n','Марино',NULL,'1047');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5262,'Phip','Nalder','pnalderdu@mashable.com','pnalderdu','4T6ZvCt3OqD','Muraharjo',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9572,'Christyna','Vinter','cvinterdv@hibu.com','cvinterdv','MgvnfJTc','Fuchun',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5245,'Merwin','Antoniat','mantoniatdw@istockphoto.com','mantoniatdw','ixPpeuZk','Carpina',NULL,'55810-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2140,'Naomi','Delmage','ndelmagedx@wikia.com','ndelmagedx','9rMizi3ai4J','Hejia',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6081,'Clarke','Derkes','cderkesdy@google.ca','cderkesdy','jWkCp0kTrwq','Coruripe',NULL,'57230-000');
@@ -529,7 +512,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3236,'Rickie','Newling','rnewlingel@theatlantic.com','rnewlingel','WpiI6UtFtS','Tobias Barreto',NULL,'49300-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2406,'Shoshanna','Whitechurch','swhitechurchem@omniture.com','swhitechurchem','pNozwo0X1Pp','Brzeg Dolny',NULL,'56-122');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (697,'Jen','McIlheran','jmcilheranen@zdnet.com','jmcilheranen','Ly46SVgB','Myingyan',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9407,'Marybelle','Andreotti','mandreottieo@mediafire.com','mandreottieo','T4IowLQnrg','Karangbalong',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5143,'Anselm','Ferreri','aferreriep@about.me','aferreriep','v7h3p3','Łapczyca',NULL,'32-744');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8959,'Fulton','Alesin','falesineq@nyu.edu','falesineq','QgPJ2Z0btD','Babahoyo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (668,'Town','Willars','twillarser@barnesandnoble.com','twillarser','LIKNpcch','Juhut',NULL,NULL);
@@ -546,7 +528,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2563,'Alissa','Ren','arenf2@arizona.edu','arenf2','YaUyyalzL','Vratsa',NULL,'3053');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7827,'Horst','Campelli','hcampellif3@census.gov','hcampellif3','7zfABSlC59','Maxiao',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8721,'Mavis','Sproson','msprosonf4@goodreads.com','msprosonf4','9yiGzH5jnx','Banyubang',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8248,'Nikos','Calladine','ncalladinef5@sciencedirect.com','ncalladinef5','C0igxO','Baume-les-Dames','Franche-Comté','25117 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2910,'Clarabelle','Caplan','ccaplanf6@google.cn','ccaplanf6','3YM8KW','Kimito',NULL,'11710');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5916,'Patsy','Winfindine','pwinfindinef7@vimeo.com','pwinfindinef7','1oZ5IZrQ6P1y','Svetogorsk',NULL,'188992');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1746,'Freddy','Janew','fjanewf8@ft.com','fjanewf8','1mXvJxOs0','Cầu Gồ',NULL,NULL);
@@ -579,10 +560,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (597,'Alphonse','Ife','aifefz@weebly.com','aifefz','mDasWkh','Santa Elena de Uairén',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2993,'Joly','Ashlee','jashleeg0@chronoengine.com','jashleeg0','FjWJjvX','Riđica',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2349,'Emilio','Lasty','elastyg1@go.com','elastyg1','LqLy3z9eV','Itatiba',NULL,'13250-000');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9188,'Jemmy','Beauchop','jbeauchopg2@wp.com','jbeauchopg2','cv1UuYVcN','Jagüey Grande',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7599,'Heinrick','Yendall','hyendallg3@admin.ch','hyendallg3','P10Pm9Tja','Witkowo',NULL,'62-230');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5233,'Jasmine','Janca','jjancag4@newyorker.com','jjancag4','gBQENq1V4lA','Dafundo','Lisboa','1495-701');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7021,'Nevile','McGibbon','nmcgibbong5@miibeian.gov.cn','nmcgibbong5','ymLH2EQ7RFj','Lescar','Aquitaine','64234 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4436,'Ogdon','Emblen','oembleng6@about.me','oembleng6','ND5XVQV8v','Pérama',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3018,'Vera','Pattillo','vpattillog7@booking.com','vpattillog7','5utSMhDJM','Nice','Provence-Alpes-Côte d''Azur','06182 CEDEX 2');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3206,'Claudina','Poker','cpokerg8@gnu.org','cpokerg8','lkKa9N','Malummaduri',NULL,NULL);
@@ -614,13 +593,11 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8765,'Ernest','Rixon','erixongy@jalbum.net','erixongy','nGewyo','Phrae',NULL,'54130');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1453,'Janice','Routh','jrouthgz@scribd.com','jrouthgz','ODHtJZsS','Skotoússa',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4921,'Janot','Thaine','jthaineh0@themeforest.net','jthaineh0','k8g8iSYmt8','Sanli',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6189,'Terri','Wadge','twadgeh1@google.cn','twadgeh1','3pSycKY','Xiangrong',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7544,'Itch','Heineking','iheinekingh2@eventbrite.com','iheinekingh2','wM03KC','Villamaría',NULL,'176008');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7383,'Marti','Sorley','msorleyh3@netlog.com','msorleyh3','ZjinxNnQcIGi','Salcedo',NULL,'6807');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5348,'Glendon','Leyband','gleybandh4@ucla.edu','gleybandh4','9C6ZYgqP','Suining',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4095,'Frayda','Higford','fhigfordh5@mysql.com','fhigfordh5','wO0mY7R','Ordem','Leiria','2430-159');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8759,'Vanny','Squibbs','vsquibbsh6@samsung.com','vsquibbsh6','ptOUe6F','Xiadian',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1271,'Pascal','Buckingham','pbuckinghamh7@infoseek.co.jp','pbuckinghamh7','rZIODGlJ9G','Lukou',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4694,'Cati','Pegrum','cpegrumh8@cnn.com','cpegrumh8','jbRwM3syy','Sande Vila Nova','Braga','4805-556');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8125,'Tallulah','Christol','tchristolh9@tripod.com','tchristolh9','a9ciJH','Thị Trấn Thanh Lưu',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2749,'Drucill','Bladon','dbladonha@fastcompany.com','dbladonha','oKNhY5','Los Angeles','California','90030');
@@ -629,7 +606,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8440,'Jilly','Hampton','jhamptonhd@163.com','jhamptonhd','ql6KWL','Sumbe',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3558,'Hakeem','Starsmore','hstarsmorehe@sohu.com','hstarsmorehe','GNsQ9X49','Paris 08','Île-de-France','75419 CEDEX 08');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2356,'Tristam','Batram','tbatramhf@un.org','tbatramhf','jdU6EW','Tiyingtali Kelod',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (920,'Leontyne','McCrostie','lmccrostiehg@virginia.edu','lmccrostiehg','dPDKihb0m5e','Cuozhou',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5345,'Allister','Checo','achecohh@nasa.gov','achecohh','i7SBewd','Panadura',NULL,'12500');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5334,'Stace','Offin','soffinhi@sbwire.com','soffinhi','m9HNk60gczv','Tenggong',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9277,'Hali','Silverthorn','hsilverthornhj@lycos.com','hsilverthornhj','06uBHNEqHJ8Q','Rujewa',NULL,NULL);
@@ -638,7 +614,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5026,'Carrol','Leuren','cleurenhm@dropbox.com','cleurenhm','VxxZ7eCCLR','Pirogovo',NULL,'427010');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5055,'Reidar','Redhead','rredheadhn@marriott.com','rredheadhn','sESZeaD','Hankasalmi',NULL,'41521');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9492,'Collin','Archbould','carchbouldho@g.co','carchbouldho','XBF2xmS7','Dongxiang',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5711,'Cacilie','Freestone','cfreestonehp@un.org','cfreestonehp','wY6M0rw0','Kampong Chhnang',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8574,'Roby','Fish','rfishhq@time.com','rfishhq','BviVhO','San Emilio',NULL,'2722');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5689,'Jerry','Bertomieu','jbertomieuhr@dailymail.co.uk','jbertomieuhr','EWaWjHKJX667','Vitoria-Gasteiz','Pais Vasco','01010');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1468,'Moyra','Grollmann','mgrollmannhs@mysql.com','mgrollmannhs','G2pCTfid','Zhulin',NULL,NULL);
@@ -675,10 +650,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (755,'Zea','Eslinger','zeslingerin@ustream.tv','zeslingerin','Wda5AAE','Guantang',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1144,'Mercy','Jekyll','mjekyllio@home.pl','mjekyllio','AfyFM76','Farīmān',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4488,'Zacharie','Rospars','zrosparsip@moonfruit.com','zrosparsip','c58YfNRNDli','El Mirador','Veracruz Llave','93429');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2306,'Merissa','Woodard','mwoodardiq@blogger.com','mwoodardiq','eIbGuVEA','Mendefera',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2408,'Heddie','Fuzzey','hfuzzeyir@fc2.com','hfuzzeyir','ostVAbE','Sovetakan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (76,'Barney','Dalgetty','bdalgettyis@intel.com','bdalgettyis','faYJ8Qvf1','Hongdun',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1639,'Erl','Faithfull','efaithfullit@wsj.com','efaithfullit','rIWd3J','Jingmao',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9959,'Concettina','Gumley','cgumleyiu@wix.com','cgumleyiu','VFDWw7auka','Nanterre','Île-de-France','92885 CEDEX 9');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6717,'Barrie','Jelley','bjelleyiv@hugedomains.com','bjelleyiv','YTPAtUWs','Emalgolin Mongolzuxiang',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1531,'Finlay','Toffoloni','ftoffoloniiw@guardian.co.uk','ftoffoloniiw','EK6pUrsWQZTh','Biryulëvo Zapadnoye',NULL,'396689');
@@ -689,7 +662,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6946,'Jeremie','Fitter','jfitterj1@mediafire.com','jfitterj1','eESl9Xr3','Itumbiara',NULL,'75500-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8915,'Abrahan','Merrett','amerrettj2@issuu.com','amerrettj2','oLvCyW','Dusit',NULL,'10300');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5213,'Cordy','Krojn','ckrojnj3@ning.com','ckrojnj3','i3uBvp','Las Lomas',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6946,'Amaleta','Krysztowczyk','akrysztowczykj4@themeforest.net','akrysztowczykj4','bHqMLkhQw','Tecpán Guatemala',NULL,'04006');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (55,'Della','Compfort','dcompfortj5@chronoengine.com','dcompfortj5','Jdg9l9beEZ6r','Burtunay',NULL,'368150');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5002,'Jethro','Pengelley','jpengelleyj6@dyndns.org','jpengelleyj6','C01TxrZd','Yëlkino',NULL,'624214');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9161,'Irvin','Cocke','icockej7@shop-pro.jp','icockej7','nMOVcQt','Takeshiken',NULL,NULL);
@@ -698,7 +670,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6861,'Rory','Jerche','rjercheja@simplemachines.org','rjercheja','9WwIsa','Citambal',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3299,'Waneta','Tombling','wtomblingjb@globo.com','wtomblingjb','cMepAbTFbsC','Aldeia de Juzo','Lisboa','2750-015');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (101,'Erhart','Banasiak','ebanasiakjc@bbb.org','ebanasiakjc','rnxwVaus8','Herrera',NULL,'5013');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8876,'Ewell','Abdey','eabdeyjd@abc.net.au','eabdeyjd','KID46TdC','Yangping',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6866,'Penelope','Loudiane','ploudianeje@usgs.gov','ploudianeje','kk7MuU','Jialai',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1609,'Shandeigh','Domanek','sdomanekjf@tuttocitta.it','sdomanekjf','aEGbwIbBv6q','Zhutian',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7935,'Alis','Lerohan','alerohanjg@techcrunch.com','alerohanjg','WbO7PD','Lilio',NULL,'4004');
@@ -706,14 +677,12 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6320,'Vinnie','Heighway','vheighwayji@myspace.com','vheighwayji','PNdjjOWa4Ij','La Bélgica',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4688,'Valeria','Morrilly','vmorrillyjj@hp.com','vmorrillyjj','QM1WQbEWTo','Gložan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8148,'Janek','Bompass','jbompassjk@redcross.org','jbompassjk','lGgJKM36in','Chengzhong',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6013,'Adelice','Fominov','afominovjl@hc360.com','afominovjl','6XdJOhA','Longsheng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7419,'Sarina','De Beneditti','sdebenedittijm@meetup.com','sdebenedittijm','kDOf4pv1yAqu','Minneapolis','Minnesota','55448');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5016,'Paulina','Mougenel','pmougeneljn@gov.uk','pmougeneljn','SJ1cgIKQxw','Mazār-e Sharīf',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8254,'Billie','Pitcock','bpitcockjo@github.com','bpitcockjo','DDPQv4','Krokeaí',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4611,'Honor','Proudman','hproudmanjp@prlog.org','hproudmanjp','kzV9N2p','Mulyo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7707,'Mahmoud','Alderwick','malderwickjq@ebay.com','malderwickjq','l0xDlAl','Loutrós',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1183,'Joly','Mucklow','jmucklowjr@apple.com','jmucklowjr','Jb10mnN','Kotlovka',NULL,'142817');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3907,'Hyacinthe','Atteridge','hatteridgejs@harvard.edu','hatteridgejs','ON6DhPdVww0','Spiczyn',NULL,'21-077');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5119,'Sholom','Elvy','selvyjt@opensource.org','selvyjt','H4iz5Yqh3','Socabaya',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8750,'Lorelei','Kibbe','lkibbeju@google.com.au','lkibbeju','08qCcVy','Krasnoye',NULL,'652577');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1763,'Maryjo','Anchor','manchorjv@blogtalkradio.com','manchorjv','wvZcPXyUja2k','Chinju',NULL,NULL);
@@ -721,9 +690,7 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6259,'Rex','Cotes','rcotesjx@hp.com','rcotesjx','7OlUrliuRAfg','San Pascual',NULL,'5420');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5139,'Timmie','McLice','tmclicejy@alibaba.com','tmclicejy','QmnHkvJ','Paynjuwayn',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6327,'Max','Brucker','mbruckerjz@amazon.co.jp','mbruckerjz','EY4XvSUKEKu','Antipolo',NULL,'6005');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4175,'Waneta','Bollen','wbollenk0@oracle.com','wbollenk0','cQeim5jrUeZ','Yuchi',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8855,'Beverly','Tolomio','btolomiok1@etsy.com','btolomiok1','OAYEEoig','Pangalangan',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5797,'Linnie','Bothie','lbothiek2@oracle.com','lbothiek2','nBfpAxfNtQp6','Bauru',NULL,'17000-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7578,'Cassius','Voff','cvoffk3@hibu.com','cvoffk3','uCRN3xnA','Berezniki',NULL,'618409');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1791,'Nelli','Jenks','njenksk4@tripadvisor.com','njenksk4','ndkk6pISXG','Portarlington',NULL,'R21');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2683,'Thorpe','Gowdie','tgowdiek5@nifty.com','tgowdiek5','tnNsFHIlSnm','Jindu',NULL,NULL);
@@ -733,12 +700,10 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8783,'Bruis','Laverty','blavertyk9@addthis.com','blavertyk9','20M1kwAWi0d7','Kengkou',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5601,'Sunny','Dible','sdibleka@amazonaws.com','sdibleka','mqagta','Sidomakmur',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9770,'Reube','Rotherham','rrotherhamkb@google.com.au','rrotherhamkb','NG82Jk1','Khlong Khuean',NULL,'34280');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4688,'Abby','Kidwell','akidwellkc@alibaba.com','akidwellkc','JD3cfl','Bulawin',NULL,'7416');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (24,'Onofredo','Malenoir','omalenoirkd@networksolutions.com','omalenoirkd','bf12dHx','Zuocun',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1037,'Elladine','Tacker','etackerke@sfgate.com','etackerke','jBRvX1','Mae Sai',NULL,'57130');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7350,'Mattias','Ikringill','mikringillkf@psu.edu','mikringillkf','Qp2FtGl','Karungdong',NULL,'7214');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6119,'Chrystal','Feldmus','cfeldmuskg@wiley.com','cfeldmuskg','KgsbzDVBdVi','Now Zād',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3299,'Simmonds','Pevsner','spevsnerkh@infoseek.co.jp','spevsnerkh','N4P6MuG','San Pedro One',NULL,'4234');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8834,'Yorgos','Auden','yaudenki@thetimes.co.uk','yaudenki','pbHmhCrEWi','Sanxi',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8264,'Mariellen','Oldacre','moldacrekj@prnewswire.com','moldacrekj','sJTsGqkP','Beška',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (872,'Rubi','Ghilardini','rghilardinikk@cam.ac.uk','rghilardinikk','7w0Sl1NU','Reshui',NULL,NULL);
@@ -777,7 +742,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8916,'Merrill','Sprade','mspradelh@amazon.co.jp','mspradelh','5B2XhkIMLw','Labuhansumbawa',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (477,'Augustina','McLelland','amclellandli@360.cn','amclellandli','mNuqqEvqb','Sugiharjo',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9421,'Nicolas','Martinovsky','nmartinovskylj@dell.com','nmartinovskylj','u28dvUjhhbk','Tianxingchang',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6299,'Gregorio','Hayley','ghayleylk@seattletimes.com','ghayleylk','FHqDheDXx','Seattle','Washington','98195');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1634,'Kit','Berth','kberthll@loc.gov','kberthll','55sJTDLV','Jiaze',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6706,'Marianna','Beaston','mbeastonlm@shinystat.com','mbeastonlm','i8w8fNl7Dhha','Xianchiyu',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5742,'Audi','Barrett','abarrettln@t.co','abarrettln','oaxnwC13fp','Suocheng',NULL,NULL);
@@ -786,7 +750,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1224,'Gussy','Alenichicov','galenichicovlq@feedburner.com','galenichicovlq','yghtS5CYBvl','Yeshan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4031,'Suzie','Johnston','sjohnstonlr@vinaora.com','sjohnstonlr','4OL4huTUGP','Thames',NULL,'3540');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3015,'Antonino','Dakhov','adakhovls@scribd.com','adakhovls','NaLnjq','Yushan',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (207,'Karin','Duncombe','kduncombelt@gizmodo.com','kduncombelt','zdiqg6uKGGF9','Banjar Banyualit',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8409,'Oona','Firman','ofirmanlu@cyberchimps.com','ofirmanlu','zkfuJhYA417','San Francisco',NULL,'8501');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5845,'Hesther','Perrin','hperrinlv@ibm.com','hperrinlv','hB7bKEAA72','Comé',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1826,'Xena','Goodacre','xgoodacrelw@hatena.ne.jp','xgoodacrelw','Yzjch1tn','Severo-Zadonsk',NULL,'301792');
@@ -806,7 +769,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2605,'Ilene','Ashwell','iashwellma@nbcnews.com','iashwellma','DmyNeWTPQV','Namling',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2102,'Damon','Jeynes','djeynesmb@pinterest.com','djeynesmb','ThrRrddZD2m','Herong',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3542,'Robinia','Reddington','rreddingtonmc@deliciousdays.com','rreddingtonmc','rJaoku5ybA','Sandgerði',NULL,'245');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5962,'Bradly','Teager','bteagermd@chron.com','bteagermd','rC20UYTeeLD','Berlín',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1688,'Ellissa','Baitson','ebaitsonme@drupal.org','ebaitsonme','Fb7Af0aOiT','Huallanca',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9065,'Winifred','Handrick','whandrickmf@bloglovin.com','whandrickmf','BFSpEWlhgq','Ngori',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4218,'Stephenie','Sarfass','ssarfassmg@accuweather.com','ssarfassmg','YELVGNIjk','Salta',NULL,'4400');
@@ -825,7 +787,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1165,'Martynne','Fillon','mfillonmt@independent.co.uk','mfillonmt','smPTAAX','Šenkovec',NULL,'40000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4152,'Amara','Kinkade','akinkademu@xing.com','akinkademu','OZMBzpK','Hamar','Hedmark','2305');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6413,'Lindsey','Coppock.','lcoppockmv@opera.com','lcoppockmv','T0YMHaUZ','Lukou',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5601,'Timothea','Jakubovitch','tjakubovitchmw@lulu.com','tjakubovitchmw','DQaXRvF','Heishui',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3530,'Frannie','Castano','fcastanomx@census.gov','fcastanomx','ChXCAMxoZASH','Houston','Texas','77090');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3200,'Shelden','Brookwell','sbrookwellmy@unicef.org','sbrookwellmy','U3v7xt7','Tyresö','Stockholm','135 50');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3154,'Paulita','Whartonby','pwhartonbymz@bloglovin.com','pwhartonbymz','16CsVj26UHM','Zhaocun',NULL,NULL);
@@ -868,7 +829,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2794,'Michal','Gleadhell','mgleadhello0@instagram.com','mgleadhello0','DJwHRAX','Emiliano Zapata','Guanajuato','38703');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (290,'Ollie','Corcut','ocorcuto1@amazon.com','ocorcuto1','ngINzk','Donja Dubica',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (603,'Jerrold','Hancox','jhancoxo2@nymag.com','jhancoxo2','Sett3CG74eV','Chortkiv',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3026,'Ruperto','Henker','rhenkero3@tinypic.com','rhenkero3','ehypukEE33','Xuetian',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1415,'Lurette','Bewsy','lbewsyo4@opensource.org','lbewsyo4','p4zl2g','Pinagsibaan',NULL,'0801');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4845,'Becka','Axe','baxeo5@sphinn.com','baxeo5','H4a77V','Villiers',NULL,'9840');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7801,'Bonnee','Peattie','bpeattieo6@walmart.com','bpeattieo6','1gSjcI','Kulykiv',NULL,NULL);
@@ -890,10 +850,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (225,'Leesa','Kernar','lkernarom@weather.com','lkernarom','q87D9ghraA','Renko',NULL,'14300');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9750,'Eugen','Pizey','epizeyon@homestead.com','epizeyon','zHQRRn4kSWe','Amphawa',NULL,'75110');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4423,'Lyda','Powdrill','lpowdrilloo@opensource.org','lpowdrilloo','58TfrPNbzOY','Puncaksari',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (106,'Bebe','Gellately','bgellatelyop@goo.gl','bgellatelyop','rRadH3d','Castanheira do Campo','Coimbra','3025-511');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5772,'Elnora','Grazier','egrazieroq@patch.com','egrazieroq','2fXE2CY5c3N','San Jose','California','95108');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7309,'Peyter','Areles','parelesor@facebook.com','parelesor','UX3onFc','Sumbersih',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8916,'Mahmoud','Saterweyte','msaterweyteos@bloomberg.com','msaterweyteos','MWuZQ3e','Ilesa',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3458,'Wally','Halms','whalmsot@go.com','whalmsot','yWJHm5','Suocheng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (3843,'Ellynn','Volleth','evollethou@uol.com.br','evollethou','OGursfdkGYc','Kokkári',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2950,'Loella','Smithen','lsmithenov@fda.gov','lsmithenov','y0rUdfg6Oq5','كاف الجاع',NULL,NULL);
@@ -926,8 +884,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1658,'Gustave','Boxen','gboxenpm@webeden.co.uk','gboxenpm','NEnVUxOit','Lons-le-Saunier','Franche-Comté','39039 CEDEX 9');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7978,'Binni','Garrie','bgarriepn@ebay.com','bgarriepn','FWPNMD11M','Mandepa Barat',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2907,'Heinrick','Linch','hlinchpo@wikia.com','hlinchpo','CKQwRzETH','Wattala',NULL,'11104');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2915,'Kesley','Metherell','kmetherellpp@mail.ru','kmetherellpp','vXUXx5SQHUBU','Toamasina',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5016,'Corliss','Cutriss','ccutrisspq@mtv.com','ccutrisspq','rtVzALOX4l','Maceió',NULL,'57000-000');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6657,'Blakeley','Hoble','bhoblepr@telegraph.co.uk','bhoblepr','FMsaHPm','Diourbel',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (7825,'Vanda','Areles','varelesps@wikimedia.org','varelesps','Zw4PNHFtqLw','Jincheng',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6987,'Bay','Bergstram','bbergstrampt@accuweather.com','bbergstrampt','6ujCw4','Miami','Florida','33169');
@@ -941,11 +897,8 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8676,'Cornelius','Klimowski','cklimowskiq1@ocn.ne.jp','cklimowskiq1','JCMZ15cAabk','Kusi',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9811,'Lucas','Osburn','losburnq2@wikipedia.org','losburnq2','80VSg79c7','Komsomol’sk',NULL,'155150');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4450,'Matelda','Abeles','mabelesq3@usa.gov','mabelesq3','HJyNjgv','Lianozovo',NULL,'443099');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9313,'Frances','Driffe','fdriffeq4@php.net','fdriffeq4','6s8MH2VGs','Honggang',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (55,'Toddie','Benedettini','tbenedettiniq5@bloglines.com','tbenedettiniq5','7zOZsUWnW','Ljupina',NULL,'35400');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2736,'Eleni','Sedcole','esedcoleq6@1688.com','esedcoleq6','PGstNy6ZY4S','Stepanivka',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4043,'Carlin','Cartan','ccartanq7@bloglines.com','ccartanq7','Ib4sJIhfH','Kawangu',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5774,'Delainey','Lambarth','dlambarthq8@cdc.gov','dlambarthq8','ZUyT9P30dYwU','Stockholm','Stockholm','103 04');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8591,'Olivette','Gauntley','ogauntleyq9@theatlantic.com','ogauntleyq9','W5bX1IqMvB','Sembalunbumbung',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2904,'Antin','Vautier','avautierqa@nasa.gov','avautierqa','wiRS8cUE','Sembungan Kidul',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (941,'Riley','Erridge','rerridgeqb@reddit.com','rerridgeqb','3Tz3vtdyqk','Annecy-le-Vieux','Rhône-Alpes','74944 CEDEX');
@@ -960,15 +913,12 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8983,'Norrie','Falvey','nfalveyqk@vinaora.com','nfalveyqk','OTdlXFI','Xiyuan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5029,'Vevay','Goucher','vgoucherql@skyrock.com','vgoucherql','GX7kcgh','Kotuń',NULL,'08-130');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (1638,'Hughie','Clancy','hclancyqm@nbcnews.com','hclancyqm','R1kVDfwyCn1','Tieshan',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4532,'Valene','Schroter','vschroterqn@wikimedia.org','vschroterqn','bNu8VbvHn0','Paungde',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6991,'Minne','Dominka','mdominkaqo@histats.com','mdominkaqo','bipRZbY','Liutangting',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9313,'Marylin','Ramsier','mramsierqp@topsy.com','mramsierqp','BP5NpGdE','Cirumput',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8101,'Noland','Bocke','nbockeqq@prweb.com','nbockeqq','LwLENVY9o4Oo','Dijon','Bourgogne','21040 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6209,'Kathlin','Blunt','kbluntqr@washington.edu','kbluntqr','KiqMOfuNePR','Tevriz',NULL,'646560');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8805,'Riva','Moberley','rmoberleyqs@google.cn','rmoberleyqs','SHWrWZHhUfW','Kamyzyak',NULL,'416345');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5600,'Anne-corinne','Lamburne','alamburneqt@cnet.com','alamburneqt','HSJpS5','Yatunpu',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4228,'Norbie','Jaques','njaquesqu@indiegogo.com','njaquesqu','ARcanlO','Usatove',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4436,'Edsel','Maddyson','emaddysonqv@washington.edu','emaddysonqv','6aNbEBLn','Boca de Parita',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (271,'Francklyn','Hills','fhillsqw@xinhuanet.com','fhillsqw','OVT5Di','Đắk Mil',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9746,'Buck','Midson','bmidsonqx@last.fm','bmidsonqx','NP85IAAAdnL','Tanjung Timur',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4502,'Peg','Sweeting','psweetingqy@miitbeian.gov.cn','psweetingqy','xZYkhVi8D','Evansville','Indiana','47732');
@@ -984,7 +934,6 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (2193,'Koren','Worviell','kworviellr8@wsj.com','kworviellr8','1L4WPkcK3','Romorantin-Lanthenay','Centre','41204 CEDEX');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9714,'Philbert','Aizikowitz','paizikowitzr9@bing.com','paizikowitzr9','HjKOH9pCz','Prizren',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (9,'Lorin','Pudding','lpuddingra@stanford.edu','lpuddingra','Ot9ZV5','Mali',NULL,NULL);
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8715,'Yoshiko','MacSorley','ymacsorleyrb@newsvine.com','ymacsorleyrb','XmkMtPM','Severnoye',NULL,'461677');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8628,'Sarene','D''eye','sdeyerc@google.com.br','sdeyerc','iMbD8xiDBLK','Susunan',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6913,'Johnnie','Longbothom','jlongbothomrd@plala.or.jp','jlongbothomrd','5I4avlB','Perlez',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5006,'Marius','De Mattei','mdematteire@unc.edu','mdematteire','WRQKYXG','Bungbulang',NULL,NULL);
@@ -999,5 +948,4 @@ INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip)
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (6871,'Joseito','Pendle','jpendlern@fc2.com','jpendlern','bXfBrM6xI','Värnamo','Jönköping','331 29');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (8076,'Fancy','Ander','fanderro@statcounter.com','fanderro','wrhqkkFS','Sarpang',NULL,NULL);
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (5492,'Jonis','Menat','jmenatrp@naver.com','jmenatrp','fR7RnGVe6EU','Le Grand-Quevilly','Haute-Normandie','76124 CEDEX');
-INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (4134,'Dukey','Durnell','ddurnellrq@seattletimes.com','ddurnellrq','Uh9XqT','Kvänum','Västra Götaland','535 91');
 INSERT INTO Curator(curatorid,first,last,email,username,password,city,state,zip) VALUES (518,'Yolane','Bicknell','ybicknellrr@msn.com','ybicknellrr','AMLP9Tz','Chuoyuan',NULL,NULL);
