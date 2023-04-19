@@ -104,29 +104,43 @@ def bookreader_update(userid):
     return  "BookReader password was successfully updated"
 
 #get first 5 bookreaders
-@books.route('/mostExpensive')
-def get_most_pop_books():
+@bookreaders.route('/first5')
+def get_first_bookreaders():
     cursor = db.get_db().cursor()
-     query = '''
-         SELECT product_code, product_name, list_price, reorder_level
-         FROM books
-         ORDER BY userid 
-         LIMIT 5
-     '''
-     cursor.execute(query)
-         grab the column headers from the returned data
-     column_headers = [x[0] for x in cursor.description]
+    query = '''
+        SELECT first, last, username, email
+        FROM BookReader
+        ORDER BY userid 
+        LIMIT 5
+    '''
+    cursor.execute(query)
+    #grab the column headers from the returned data
+    column_headers = [x[0] for x in cursor.description]
 
-      create an empty dictionary object to use in 
-      putting column headers together with data
-     json_data = []
+    #create an empty dictionary object to use in 
+    #putting column headers together with data
+    json_data = []
 
-      fetch all the data from the cursor
-     theData = cursor.fetchall()
+    #fetch all the data from the cursor
+    theData = cursor.fetchall()
 
-      for each of the rows, zip the data elements together with
-      the column headers. 
-     for row in theData:
-         json_data.append(dict(zip(column_headers, row)))
+    # for each of the rows, zip the data elements together with
+    #the column headers. 
+    for row in theData:
+        json_data.append(dict(zip(column_headers, row)))
 
-     return jsonify(json_data)
+    return jsonify(json_data)
+
+
+
+
+#get first all usernames and passwords
+@bookreaders.route('/accounts')
+def get_accounts():
+    cursor = db.get_db().cursor()
+    query = = '''
+        SELECT username, password
+        FROM BookReader
+    '''
+    cursor.execute(query)
+   
