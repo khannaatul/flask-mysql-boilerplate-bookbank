@@ -95,25 +95,6 @@
     "tests": []
   },
   {
-    "_id": "0470d33c-b6cd-4343-b0e2-7d1efb6c408f",
-    "colId": "fc703bd0-2e8d-4c64-95fc-a858ae59d62a",
-    "containerId": "",
-    "name": "localhost:8001/c/newbook  5",
-    "url": "localhost:8001/c/newbooks",
-    "method": "POST",
-    "sortNum": 10000,
-    "created": "2023-04-19T15:05:31.697Z",
-    "modified": "2023-04-19T17:58:53.861Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n    \"books_id\" : 5,\n    \"books_first\" : \"Elle\",\n    \"books_last\" : \"Kennedy\",\n    \"books_pageCount\" : 400,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"The Score\",\n    \"books_conditionOfBook\" : \"Fair\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A college hockey romance sequel\"\n  }",
-      "form": []
-    },
-    "tests": []
-  },
-  {
     "_id": "37c9fbb2-fe28-433e-a6ab-992b8d4a3519",
     "colId": "f0f5826c-07e8-41aa-8066-849c6f7b1945",
     "containerId": "",
@@ -386,25 +367,6 @@
     "body": {
       "type": "json",
       "raw": "{\n    \"books_id\" : 0,\n    \"books_first\" : \"Elsie\",\n    \"books_last\" : \"Silver\",\n    \"books_pageCount\" : 301,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"Reckless\",\n    \"books_conditionOfBook\" : \"Good\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A small town romance\"\n  }",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "30e8c306-7859-490f-a84c-e47dfe8580e2",
-    "colId": "fc703bd0-2e8d-4c64-95fc-a858ae59d62a",
-    "containerId": "",
-    "name": "localhost:8001/b/newbook #2 Copy",
-    "url": "localhost:8001/c/newbook",
-    "method": "POST",
-    "sortNum": 20000,
-    "created": "2023-04-19T17:54:23.029Z",
-    "modified": "2023-04-19T17:57:12.328Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n    \"books_id\" : 6,\n    \"books_first\" : \"Elle\",\n    \"books_last\" : \"Kennedy\",\n    \"books_pageCount\" : 400,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"The Catch\",\n    \"books_conditionOfBook\" : \"Bad\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A college hockey romance third in a series\"\n  }",
       "form": []
     },
     "tests": []
