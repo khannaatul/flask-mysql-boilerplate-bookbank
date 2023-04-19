@@ -77,24 +77,10 @@
     "folders": []
   },
   {
-    "_id": "25b21933-a799-47d1-ae93-f912524239b9",
-    "colName": "put new name bookreader/curator",
-    "created": "2023-04-19T17:16:27.360Z",
-    "sortNum": 120000,
-    "folders": []
-  },
-  {
-    "_id": "5ac7c934-7c41-4eef-9f3e-3ebf70fc00f2",
-    "colName": "put new email bookreader/curator",
-    "created": "2023-04-19T17:16:43.670Z",
-    "sortNum": 130000,
-    "folders": []
-  },
-  {
-    "_id": "18562672-d7ec-4a7f-9a25-eb8d65304322",
-    "colName": "put new username",
-    "created": "2023-04-19T17:16:57.573Z",
-    "sortNum": 140000,
+    "_id": "fc703bd0-2e8d-4c64-95fc-a858ae59d62a",
+    "colName": "post book-curator",
+    "created": "2023-04-19T17:54:10.625Z",
+    "sortNum": 150000,
     "folders": []
   }
 ]

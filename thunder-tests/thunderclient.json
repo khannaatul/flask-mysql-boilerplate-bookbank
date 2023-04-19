@@ -96,19 +96,19 @@
   },
   {
     "_id": "0470d33c-b6cd-4343-b0e2-7d1efb6c408f",
-    "colId": "69001628-b4ec-4548-8164-063e1ce3cd76",
+    "colId": "fc703bd0-2e8d-4c64-95fc-a858ae59d62a",
     "containerId": "",
-    "name": "localhost:8001/b/newbook #2",
-    "url": "localhost:8001/b/newbook",
+    "name": "localhost:8001/c/newbook  5",
+    "url": "localhost:8001/c/newbooks",
     "method": "POST",
-    "sortNum": 20000,
+    "sortNum": 10000,
     "created": "2023-04-19T15:05:31.697Z",
-    "modified": "2023-04-19T15:06:21.212Z",
+    "modified": "2023-04-19T17:58:53.861Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n    \"books_id\" : 2,\n    \"books_first\" : \"Elle\",\n    \"books_last\" : \"Kennedy\",\n    \"books_pageCount\" : 400,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"The Deal\",\n    \"books_conditionOfBook\" : \"Fair\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A college hockey romance\"\n  }",
+      "raw": "{\n    \"books_id\" : 5,\n    \"books_first\" : \"Elle\",\n    \"books_last\" : \"Kennedy\",\n    \"books_pageCount\" : 400,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"The Score\",\n    \"books_conditionOfBook\" : \"Fair\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A college hockey romance sequel\"\n  }",
       "form": []
     },
     "tests": []
@@ -372,20 +372,39 @@
     "tests": []
   },
   {
-    "_id": "09664588-50ea-44c2-96b2-03e2d20e5c25",
-    "colId": "25b21933-a799-47d1-ae93-f912524239b9",
+    "_id": "97476f2b-4406-4e0a-9a03-89b78f89cff3",
+    "colId": "69001628-b4ec-4548-8164-063e1ce3cd76",
     "containerId": "",
-    "name": "localhost:8001/br/bookreadersupdate/name/0",
-    "url": "localhost:8001/br/bookreadersupdate/name/0",
-    "method": "GET",
-    "sortNum": 10000,
-    "created": "2023-04-19T17:20:14.169Z",
-    "modified": "2023-04-19T17:20:14.169Z",
+    "name": "localhost:8001/b/newbook Copy",
+    "url": "localhost:8001/b/newbook",
+    "method": "POST",
+    "sortNum": 15000,
+    "created": "2023-04-19T17:54:17.081Z",
+    "modified": "2023-04-19T17:54:17.081Z",
     "headers": [],
     "params": [],
     "body": {
       "type": "json",
-      "raw": "{\n  \"first\" : \"Ana\",\n  \"last\" : \"Ruiz\"\n}",
+      "raw": "{\n    \"books_id\" : 0,\n    \"books_first\" : \"Elsie\",\n    \"books_last\" : \"Silver\",\n    \"books_pageCount\" : 301,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"Reckless\",\n    \"books_conditionOfBook\" : \"Good\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A small town romance\"\n  }",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "30e8c306-7859-490f-a84c-e47dfe8580e2",
+    "colId": "fc703bd0-2e8d-4c64-95fc-a858ae59d62a",
+    "containerId": "",
+    "name": "localhost:8001/b/newbook #2 Copy",
+    "url": "localhost:8001/c/newbook",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2023-04-19T17:54:23.029Z",
+    "modified": "2023-04-19T17:57:12.328Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"books_id\" : 6,\n    \"books_first\" : \"Elle\",\n    \"books_last\" : \"Kennedy\",\n    \"books_pageCount\" : 400,\n    \"books_genre\" : \"romance\",\n    \"books_title\": \"The Catch\",\n    \"books_conditionOfBook\" : \"Bad\",\n    \"books_inBank\" : 0,\n    \"books_isPhysical\" : 1,\n    \"books_numCopies\" : 1,\n    \"books_synopsis\" : \"A college hockey romance third in a series\"\n  }",
       "form": []
     },
     "tests": []

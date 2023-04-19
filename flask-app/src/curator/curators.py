@@ -91,7 +91,6 @@ def curator_delete(curatorid):
 
 
 
-
 # update curator username and password
 @curators.route("/curatorupdate/<curatorid>", methods=["PUT"])
 def curator_update(curatorid):
@@ -106,9 +105,66 @@ def curator_update(curatorid):
     return "Curator password was successfully updated"
 
 
+#post new book 
+@curators.route('/newbooks', methods = ['POST'])
+def add_book():
 
-# update curators username
-@curators.route("/bcuratorsupdateusername/<curatorid>", methods=["PUT"])
+    the_data = request.json
+    current_app.logger.info(the_data)
+
+    bookid = the_data['books_id']
+    first = the_data['books_first']
+    last = the_data['books_last']
+    pageCount = the_data['books_pageCount']
+    genre = the_data['books_genre']
+    title = the_data['books_title']
+    condition = the_data['books_conditionOfBook']
+    inBank = the_data['books_inBank']
+    isPhysical = the_data['books_isPhysical']
+    numCopies = the_data['books_numCopies']
+    synopsis = the_data['books_synopsis']
+
+
+    query = 'Insert into Books (bookID, first, last, pageCount, genre, title, conditionOfBook,inBank, isPhysical, numCopies, synopsis) values(" '
+    query += str(bookid)  + ' " , " '
+    query += first  + ' " , " ' 
+    query += last + ' " , " ' 
+    query += str(pageCount) + ' " , " '
+    query += genre + ' " , " ' 
+    query += title + ' " , " '
+    query += condition + ' " , " '
+    query += str(inBank)  + ' " , " '
+    query += str(isPhysical) + ' " , " '
+    query += str(numCopies) + ' " , " '
+    query += synopsis +  ' ")'
+
+    current_app.logger.info(query)
+
+
+    # executing and commitimg the insert statement
+    # get a cursor object from the database
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+
+    #send commit command to database
+    db.get_db().commit()
+
+    return 'Success'
+
+
+#delete book
+@curators.route("/bookdelete/<bookid>", methods=["DELETE"])
+def book_delete(bookid):
+    cursor = db.get_db().cursor()
+    cursor.execute('DELETE from Books where bookID = {0}'.format(bookid))
+    #send commit command to database
+    db.get_db().commit()
+    return "Book was successfully deleted"
+
+
+
+""" # update curators username
+@curators.route("/curatorsusername/<curatorid>", methods=["PUT"])
 def curators_update(curatorid):
     newusername= request.json['username']
     cursor = db.get_db().cursor()
@@ -121,7 +177,7 @@ def curators_update(curatorid):
     return  "Curator username was successfully updated"
 
 # update Curator email
-@curators.route("/curatorsupdateemail/<curatorid>", methods=["PUT"])
+@curators.route("/curatorseemail/<curatorid>", methods=["PUT"])
 def curator_update(curatorid):
     newemail= request.json['email']
     cursor = db.get_db().cursor()
@@ -135,7 +191,7 @@ def curator_update(curatorid):
 
 
 # update Curator name
-@curators.route("/curatorsupdatename/<curatorid>", methods=["PUT"])
+@curators.route("/curatorsname/<curatorid>", methods=["PUT"])
 def curator_update(curatorid):
     newfirst= request.json['email']
     newlast= request.json['last']
@@ -146,4 +202,4 @@ def curator_update(curatorid):
     cursor.execute(query)
     #send commit command to database
     db.get_db().commit()
-    return  "Curator name was successfully updated"
+    return  "Curator name was successfully updated" """

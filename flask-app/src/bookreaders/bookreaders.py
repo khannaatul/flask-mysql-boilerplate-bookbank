@@ -104,8 +104,8 @@ def bookreader_update(userid):
     return  "BookReader password was successfully updated"
 
 
-# update bookreader username
-@bookreaders.route("/bookreadersupdateusername/<userid>", methods=["PUT"])
+"""# update bookreader username
+@bookreaders.route("/bookreadersusername/<userid>", methods=["PUT"])
 def bookreader_update(userid):
     newusername= request.json['username']
     cursor = db.get_db().cursor()
@@ -117,8 +117,8 @@ def bookreader_update(userid):
     db.get_db().commit()
     return  "BookReader username was successfully updated"
 
-# update bookreader email
-@bookreaders.route("/bookreadersupdateemail/<userid>", methods=["PUT"])
+ # update bookreader email
+@bookreaders.route("/bookreadersemail/<userid>", methods=["PUT"])
 def bookreader_update(userid):
     newemail= request.json['email']
     cursor = db.get_db().cursor()
@@ -132,7 +132,7 @@ def bookreader_update(userid):
 
 
 # update bookreader name
-@bookreaders.route("/bookreadersupdatename/<userid>", methods=["PUT"])
+@bookreaders.route("/bookreadersname/<userid>", methods=["PUT"])
 def bookreader_update(userid):
     newfirst= request.json['email']
     newlast= request.json['last']
@@ -143,4 +143,4 @@ def bookreader_update(userid):
     cursor.execute(query)
     #send commit command to database
     db.get_db().commit()
-    return  "BookReader name was successfully updated"
+    return  "BookReader name was successfully updated" """
