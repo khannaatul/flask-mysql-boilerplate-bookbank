@@ -100,7 +100,7 @@ CREATE TABLE UserAddress
     city   NVARCHAR(50),
     state  NVARCHAR(50),
     zip    NVARCHAR(50),
-    PRIMARY KEY (city, state, zip),
+    PRIMARY KEY (city, UserID),
     CONSTRAINT fk_04 FOREIGN KEY (UserID) REFERENCES BookReader (UserID) on DELETE CASCADE
 );
 
