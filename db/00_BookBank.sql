@@ -52,7 +52,7 @@ CREATE TABLE Books
     coverImage      VARCHAR(500),
     genre           VARCHAR(50),
     title           VARCHAR(50),
-    link            VARCHAR(50),
+    link            VARCHAR(2000),
     conditionOfBook VARCHAR(50),
     inBank          BOOLEAN,
     isPhysical      BOOLEAN,
@@ -82,7 +82,7 @@ CREATE TABLE AuthorAddress
     city     NVARCHAR(50),
     state    NVARCHAR(50),
     zip      NVARCHAR(50),
-    PRIMARY KEY (city, state, zip),
+    PRIMARY KEY (city, AuthorID),
     CONSTRAINT fk_02 FOREIGN KEY (AuthorID) REFERENCES Author (AuthorID) on DELETE CASCADE
 );
 
