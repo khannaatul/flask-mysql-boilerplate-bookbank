@@ -90,7 +90,7 @@ def bookreader_delete(userid):
     return "BookReader was successfully deleted"
 
 
-# update bookreader username and password
+# update bookreader password
 @bookreaders.route("/bookreadersupdate/<userid>", methods=["PUT"])
 def bookreader_update(userid):
     newpassword = request.json['password']
@@ -102,3 +102,45 @@ def bookreader_update(userid):
     #send commit command to database
     db.get_db().commit()
     return  "BookReader password was successfully updated"
+
+
+# update bookreader username
+@bookreaders.route("/bookreadersupdateusername/<userid>", methods=["PUT"])
+def bookreader_update(userid):
+    newusername= request.json['username']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE BookReader SET username = '%s' WHERE userid = '%s'"%(newusername,userid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "BookReader username was successfully updated"
+
+# update bookreader email
+@bookreaders.route("/bookreadersupdateemail/<userid>", methods=["PUT"])
+def bookreader_update(userid):
+    newemail= request.json['email']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE BookReader SET email = '%s' WHERE userid = '%s'"%(newemail,userid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "BookReader email was successfully updated"
+
+
+# update bookreader name
+@bookreaders.route("/bookreadersupdatename/<userid>", methods=["PUT"])
+def bookreader_update(userid):
+    newfirst= request.json['email']
+    newlast= request.json['last']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE BookReader SET first = '%s', last = = '%s' WHERE userid = '%s'"%(newfirst,newlast,userid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "BookReader name was successfully updated"

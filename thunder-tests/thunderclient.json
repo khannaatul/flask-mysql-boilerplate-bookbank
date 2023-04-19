@@ -370,5 +370,24 @@
       "form": []
     },
     "tests": []
+  },
+  {
+    "_id": "09664588-50ea-44c2-96b2-03e2d20e5c25",
+    "colId": "25b21933-a799-47d1-ae93-f912524239b9",
+    "containerId": "",
+    "name": "localhost:8001/br/bookreadersupdate/name/0",
+    "url": "localhost:8001/br/bookreadersupdate/name/0",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-04-19T17:20:14.169Z",
+    "modified": "2023-04-19T17:20:14.169Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"first\" : \"Ana\",\n  \"last\" : \"Ruiz\"\n}",
+      "form": []
+    },
+    "tests": []
   }
 ]
