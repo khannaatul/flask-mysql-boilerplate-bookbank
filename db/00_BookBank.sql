@@ -146,6 +146,6 @@ CREATE TABLE ReaderLibrary
     BookID     INT,
     numOfBooks INT,
     PRIMARY KEY (UserID, BookID),
-    FOREIGN KEY (UserID) REFERENCES BookReader (UserID),
-    FOREIGN KEY (BookID) REFERENCES Books (bookID)
+    CONSTRAINT fk_11 FOREIGN KEY (UserID) REFERENCES BookReader (UserID) on DELETE CASCADE,
+    CONSTRAINT fk_12 FOREIGN KEY (BookID) REFERENCES Books (bookID) on DELETE CASCADE
 );
