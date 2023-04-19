@@ -61,3 +61,57 @@ def get_books():
 #         json_data.append(dict(zip(column_headers, row)))
 
 #     return jsonify(json_data)
+
+
+@books.route('/newbook', methods = ['POST'])
+def add_book():
+
+    the_data = request.json
+    current_app.logger.info(the_data)
+
+    first = the_data['book_first']
+    last = the_data['book_last']
+    pageCount = the_data['book_pageCount']
+    genre = the_data['book_genre']
+    title = the_data['book_title']
+    condition = the_data['book_conditionOfBook']
+    inBank = the_data['book_inBank']
+    isPhysical = the_data['book_Physical']
+    numCopies = the_data['book_numCopies']
+    synopsis = the_data['book_synopsis']
+    isAutographed = the_data['book_isAutographed']
+
+
+    query = 'Insert into books (first, last, pageCount, genre, title, conditionOfBook,inBank, isPhysical, numCopies, synopsis, isAutographed ) values(" '
+    query += first  + ' " , " ' 
+    query += last + ' " , ' 
+    query += str(pageCount) + ' " , '
+    query += genre + ' " , ' 
+    query += title + ' " , '
+    query += condition + ' " , '
+    query += inBank + ' " , '
+    query += isPhysical + ' " , '
+    query += str(numCopies) + ' " , '
+    query += synopsis + ' " , '
+    query += isAutographed + ')'
+
+    current_app.logger.info(query)
+
+
+    # executing and commitimg the insert statement
+    # get a cursor object from the database
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+
+    #send commit command to database
+    db.get_db().commit()
+
+    return 'Success'
+
+
+@app.route("/book/<bookid>", methods=["DELETE"])
+def book_delete(bookid):
+    book = Books.query.get(bookid)
+    db.session.delete(book)
+    db.session.commit()
+    return "Book was successfully deleted"
