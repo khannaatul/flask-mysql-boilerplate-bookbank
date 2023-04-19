@@ -7,7 +7,7 @@ curators = Blueprint('curators', __name__)
 
 # Get all curators from the BookBank
 @curators.route('/curators', methods=['GET'])
-def get_bookreaders():
+def get_Curators():
     cursor = db.get_db().cursor()
     cursor.execute('SELECT CuratorID,\
        first, last, email, username FROM Curator')
@@ -104,3 +104,46 @@ def curator_update(curatorid):
     #send commit command to database
     db.get_db().commit()
     return "Curator password was successfully updated"
+
+
+
+# update curators username
+@curators.route("/bcuratorsupdateusername/<curatorid>", methods=["PUT"])
+def curators_update(curatorid):
+    newusername= request.json['username']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE Curator SET username = '%s' WHERE CuratorID = '%s'"%(newusername,curatorid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "Curator username was successfully updated"
+
+# update Curator email
+@curators.route("/curatorsupdateemail/<curatorid>", methods=["PUT"])
+def curator_update(curatorid):
+    newemail= request.json['email']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE Curator SET email = '%s' WHERE CuratorID = '%s'"%(newemail,curatorid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "Curator email was successfully updated"
+
+
+# update Curator name
+@curators.route("/curatorsupdatename/<curatorid>", methods=["PUT"])
+def curator_update(curatorid):
+    newfirst= request.json['email']
+    newlast= request.json['last']
+    cursor = db.get_db().cursor()
+
+    query = "UPDATE Curator SET first = '%s', last = '%s' WHERE CuratorID = '%s'"%(newfirst,newlast,curatorid)
+
+    cursor.execute(query)
+    #send commit command to database
+    db.get_db().commit()
+    return  "Curator name was successfully updated"
