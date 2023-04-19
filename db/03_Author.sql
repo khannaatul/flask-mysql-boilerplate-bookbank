@@ -172,7 +172,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9994,'Dorey','Scurry','dscurry4p@list-manage.com','dscurry4p','XE7FKQqx74','Danirai',NULL,NULL,3486);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1715,'Kathye','Bartaletti','kbartaletti4q@sun.com','kbartaletti4q','c2aIRCnlZ','Šoštanj',NULL,'3325',318);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8792,'Kelcie','Haughian','khaughian4r@alexa.com','khaughian4r','7uSw4PXox4N','Tyumen',NULL,'625999',6861);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4886,'Ahmad','Cufley','acufley4s@toplist.cz','acufley4s','wDiRwyRtg2','Senj',NULL,'53270',6438);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3065,'Winslow','Jorat','wjorat4t@csmonitor.com','wjorat4t','W78g4IrB','Van Nuys','California','91499',3987);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2559,'Cedric','Himsworth','chimsworth4u@flickr.com','chimsworth4u','DdiYUfMt7l','Mafeng',NULL,NULL,6922);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1159,'Amber','Aymes','aaymes4v@washington.edu','aaymes4v','owTbPKSMmNqr','Heung-hai',NULL,NULL,6243);
@@ -193,7 +192,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7985,'Steffi','Fearfull','sfearfull5a@ebay.co.uk','sfearfull5a','lqQKKShSiznh','Ágios Efstrátios',NULL,NULL,2922);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5253,'Blaine','Andor','bandor5b@last.fm','bandor5b','qEThsqS','Irákleion',NULL,NULL,9746);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4790,'Di','Hellyar','dhellyar5c@jugem.jp','dhellyar5c','Gzdl6wkTGoZF','Sebeta',NULL,NULL,7051);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5095,'Mar','Bartrum','mbartrum5d@goodreads.com','mbartrum5d','OpO8yfqozPgL','Burhānuddin',NULL,'4743',1746);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9405,'Nadine','Branston','nbranston5e@tiny.cc','nbranston5e','udnFGnJug','Baruunturuun',NULL,NULL,9813);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (196,'Aubrey','Luchelli','aluchelli5f@goo.gl','aluchelli5f','UhpRQP','Dongtian',NULL,NULL,1711);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2311,'Esmaria','Dumigan','edumigan5g@ucoz.com','edumigan5g','q8PG8Q','Azogues',NULL,NULL,5985);
@@ -219,7 +217,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5395,'Hilario','Reyna','hreyna60@domainmarket.com','hreyna60','IUDImkHpUua','Dū Qal‘ah',NULL,NULL,8279);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4151,'Gene','Hollow','ghollow61@irs.gov','ghollow61','JsxhGD3kBsTL','Sambuluan',NULL,'1144',8855);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8755,'Colleen','Domoney','cdomoney62@washingtonpost.com','cdomoney62','cmDduZWeIN','Sigma',NULL,'5816',169);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2414,'Kinsley','Herrieven','kherrieven63@kickstarter.com','kherrieven63','rQADOe','Batudulang',NULL,NULL,1395);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3944,'Claudio','Bartolini','cbartolini64@skyrock.com','cbartolini64','dvPSzm','Austin','Texas','78715',6674);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8537,'Elbertina','Martlew','emartlew65@omniture.com','emartlew65','kvJVXg','Nanyang',NULL,NULL,357);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (857,'Ash','Youell','ayouell66@about.com','ayouell66','js1hCEPg','Mahdishahr',NULL,NULL,9709);
@@ -255,10 +252,8 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3326,'Catriona','Bodega','cbodega70@ebay.co.uk','cbodega70','BpedonW1nwPD','Linköping','Östergötland','582 31',1453);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7082,'Lilyan','Oultram','loultram71@smugmug.com','loultram71','KvL5qGV8ZqLM','Bagansiapiapi',NULL,NULL,6313);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (823,'Herc','Raddon','hraddon72@posterous.com','hraddon72','ihbREYm0hJQ','Yambio',NULL,NULL,7462);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1715,'Jamal','Elener','jelener73@google.nl','jelener73','HKAqrIhCP','Duodaoshi',NULL,NULL,545);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (767,'Livvie','Ludgrove','lludgrove74@t-online.de','lludgrove74','lLPfk4xoIBu','Linköping','Östergötland','585 92',7897);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9047,'Rockie','Graddon','rgraddon75@netlog.com','rgraddon75','evlLcLNr','Los Angeles','California','90040',8383);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6911,'Reagen','Benterman','rbenterman76@altervista.org','rbenterman76','ueHhmwzFAQE','Guangyuan',NULL,NULL,1639);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7443,'Glendon','Spancock','gspancock77@google.fr','gspancock77','PqWkTXA9L','Sabana Grande de Boyá',NULL,'10136',2833);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9320,'Dario','Gosse','dgosse78@webs.com','dgosse78','HY9v3ohf8pU','Beyla',NULL,NULL,9131);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9191,'Heath','Arnatt','harnatt79@ocn.ne.jp','harnatt79','r7NzED9ovf','Saint-Jean-de-Monts','Pays de la Loire','85164 CEDEX',3954);
@@ -376,9 +371,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8100,'Berni','Manolov','bmanolovad@is.gd','bmanolovad','0OlbAXBe5','Daying',NULL,NULL,4983);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6368,'Wolf','Gynn','wgynnae@scientificamerican.com','wgynnae','frw301zYy08','Plettenberg Bay',NULL,'6606',3424);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4073,'Denys','Rizzi','drizziaf@wordpress.com','drizziaf','AgrL48WhmH3','Jezzîne',NULL,NULL,8734);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6627,'Kimberlee','Beaty','kbeatyag@twitpic.com','kbeatyag','mrfAI3i1l','Campurrejo',NULL,NULL,3330);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5937,'Dorothee','Rowbottom','drowbottomah@addthis.com','drowbottomah','2MiJTnN78OSu','Tulle','Limousin','19011 CEDEX',5245);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1583,'Terrill','Adrian','tadrianai@cafepress.com','tadrianai','kGqKZsim9','Puolanka',NULL,'89201',6661);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5756,'Tore','Lettson','tlettsonaj@lycos.com','tlettsonaj','v0gFQBYFA0U','Mavingouni',NULL,NULL,865);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9103,'Wilma','Vial','wvialak@patch.com','wvialak','5PAVU4NGayI','Kamenjane',NULL,'1221',7473);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1308,'Dani','Saunper','dsaunperal@seattletimes.com','dsaunperal','WiJwSa','Vyritsa',NULL,'188382',4436);
@@ -407,10 +399,8 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8492,'Bancroft','Ormonde','bormondeb8@globo.com','bormondeb8','TYswSB','Goczałkowice Zdrój',NULL,'43-503',8248);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9599,'Reynold','Fortie','rfortieb9@printfriendly.com','rfortieb9','MhCTRaB4D','Charleville-Mézières','Champagne-Ardenne','08107 CEDEX',7652);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (85,'Alejoa','Barosch','abaroschba@nhs.uk','abaroschba','GvRu7aJ3Pabn','Manturovo',NULL,'157305',207);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (525,'Hamish','Wrintmore','hwrintmorebb@home.pl','hwrintmorebb','5MRHdF','San Pedro',NULL,'4023',1934);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2769,'Lethia','Renak','lrenakbc@nature.com','lrenakbc','tyeeu8yX6','Bulbul',NULL,NULL,9407);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2426,'Betsey','Morrow','bmorrowbd@princeton.edu','bmorrowbd','A05xLQF','Mysiadło',NULL,'05-509',403);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5138,'Orren','Nizard','onizardbe@samsung.com','onizardbe','UMcfZCdc','Bzou',NULL,NULL,8437);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9076,'Alphonso','Keysall','akeysallbf@over-blog.com','akeysallbf','ZPE9nD6','Shapaja',NULL,NULL,3885);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1541,'Olav','Fitzjohn','ofitzjohnbg@quantcast.com','ofitzjohnbg','Pcgo1i1','Phatthana Nikhom',NULL,'53230',5424);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (936,'Liuka','Bachanski','lbachanskibh@jimdo.com','lbachanskibh','xlBr52','Kohlu',NULL,'83000',9925);
@@ -433,7 +423,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7017,'Agace','Jeaycock','ajeaycockby@disqus.com','ajeaycockby','tYEGGiRpwa3','Maevatanana',NULL,NULL,6572);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4509,'Audry','Bannerman','abannermanbz@craigslist.org','abannermanbz','fXBrRg4eY','Kriel',NULL,'2276',2551);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (850,'Borden','Feldbaum','bfeldbaumc0@latimes.com','bfeldbaumc0','o6nthFFhjq','Yuty',NULL,NULL,8915);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4475,'Genny','Camplejohn','gcamplejohnc1@shutterfly.com','gcamplejohnc1','mgQxOw32','Huoshaoping',NULL,NULL,545);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4343,'Sanson','Hanratty','shanrattyc2@seattletimes.com','shanrattyc2','e0h7RoAUTb','Carnaxide','Lisboa','2790-009',1922);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2192,'Scarlett','Casero','scaseroc3@prnewswire.com','scaseroc3','ReJhEGsIIit','Lamarosa','Coimbra','3025-389',9407);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4281,'Thorndike','Andreopolos','tandreopolosc4@pbs.org','tandreopolosc4','pJ32BlOr6S5a','Zhongpai',NULL,NULL,6981);
@@ -461,7 +450,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4193,'Filippo','Kellegher','fkelleghercq@ehow.com','fkelleghercq','Z7UMjz6zloq','Gaoshibei',NULL,NULL,9657);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1019,'Freeland','Hof','fhofcr@usatoday.com','fhofcr','eqECkIqd','Chagou',NULL,NULL,4163);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9470,'Chadwick','Redmain','credmaincs@fotki.com','credmaincs','tXClNCf1','Khiliomódhi',NULL,NULL,3192);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7017,'Gabriel','Willstrop','gwillstropct@slashdot.org','gwillstropct','Sz2BJ4l','Gulbene',NULL,NULL,7619);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9131,'Eldredge','Tedman','etedmancu@mac.com','etedmancu','XGJ4bJZyXry','Bokor',NULL,NULL,3698);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5446,'Nealson','Wint','nwintcv@instagram.com','nwintcv','bfNYnk4','Lais',NULL,'9601',1271);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (769,'Sherlock','Prandin','sprandincw@youtu.be','sprandincw','QeXzicVBb','Shar’ya',NULL,'157510',2037);
@@ -507,7 +495,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5205,'Rosalind','Leopold','rleopolde0@si.edu','rleopolde0','o0RsHREo','Bangkal',NULL,NULL,2555);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6685,'Olly','Sanson','osansone1@phoca.cz','osansone1','vTxdkv2','Manacapuru',NULL,'69400-000',8632);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5008,'Tory','Lavell','tlavelle2@xinhuanet.com','tlavelle2','aEjh6Z7k6p','Banjar Teguan',NULL,NULL,1826);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5144,'Isabelita','Havercroft','ihavercrofte3@elpais.com','ihavercrofte3','zZWXYAc','Farah',NULL,NULL,3698);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2393,'Elana','Vicary','evicarye4@wordpress.org','evicarye4','AkQ1ugQ74VZ3','Xo’jayli Shahri',NULL,NULL,8574);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6662,'Emmery','Rosone','erosonee5@drupal.org','erosonee5','bk1YTnO','Longshan',NULL,NULL,3424);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (811,'Cchaddie','Bontine','cbontinee6@sina.com.cn','cbontinee6','hpaIEz','Kuala Terengganu','Terengganu','20504',3393);
@@ -524,7 +511,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3708,'Carlynn','Coushe','ccousheeh@seesaa.net','ccousheeh','xN20Sea9Memn','Erandique',NULL,NULL,4276);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2302,'Rose','Doe','rdoeei@csmonitor.com','rdoeei','iUpf5Q7Dtzn','Vityazevo',NULL,'353421',7676);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4882,'Glynda','Wisham','gwishamej@facebook.com','gwishamej','ksTo8mRM','Zaandam','Provincie Noord-Holland','1504',5883);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4949,'Daune','Ralphs','dralphsek@icio.us','dralphsek','uskDX2rhF','Babagan',NULL,NULL,9277);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6400,'Neely','Clewlowe','nclewloweel@last.fm','nclewloweel','TOiJNdEYv','Nansan',NULL,NULL,9322);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9427,'Stevena','Elnaugh','selnaughem@hostgator.com','selnaughem','XrtOnQ2','Zlatni Pyasatsi',NULL,'9194',8977);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2882,'Montgomery','Noni','mnonien@jimdo.com','mnonien','uTO0Ykv','Kedung',NULL,NULL,8797);
@@ -538,14 +524,10 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2313,'Eloisa','Piens','epiensev@addtoany.com','epiensev','eyTdJbAYUVls','Yutan',NULL,NULL,9818);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9914,'Maynard','Malec','mmalecew@weebly.com','mmalecew','XmXm48Mn3','Turus',NULL,NULL,4411);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9445,'Anabelle','Proffer','aprofferex@studiopress.com','aprofferex','itOv2yMooIA','Palaiseau','Île-de-France','91124 CEDEX',1268);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4280,'Erny','Mannering','emanneringey@ustream.tv','emanneringey','hnTvtNgIXP','Nowy Tomyśl',NULL,'64-300',518);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5178,'Virge','Sellars','vsellarsez@techcrunch.com','vsellarsez','T8jphTyZAX','Töreboda','Västra Götaland','545 30',7234);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (566,'Willabella','Leban','wlebanf0@printfriendly.com','wlebanf0','5iVaZ98','Pasirsongket Dua',NULL,NULL,9568);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6063,'Meaghan','Notton','mnottonf1@shinystat.com','mnottonf1','rN9PTTEdVy','Yueshan',NULL,NULL,3026);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4198,'Isiahi','Rubra','irubraf2@biglobe.ne.jp','irubraf2','IWQiJHtO7Jzz','Estevan','Saskatchewan','S4A',5119);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8342,'Rollin','Hoble','rhoblef3@upenn.edu','rhoblef3','fHurwUx','Hauhena',NULL,NULL,3542);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4865,'Katharyn','Tinston','ktinstonf4@canalblog.com','ktinstonf4','4GiAOAbHBi','Jiahe',NULL,NULL,5774);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9829,'Bette','Sarsons','bsarsonsf5@economist.com','bsarsonsf5','C2FTu5xZpGa','Xianglong',NULL,NULL,597);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9471,'Clarine','Vargas','cvargasf6@marketwatch.com','cvargasf6','PAneCMsp2PC','Ciudad Sandino',NULL,NULL,7696);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (410,'Sibel','Lebond','slebondf7@feedburner.com','slebondf7','nxWxco1Cy','Valle de Ángeles',NULL,NULL,240);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8527,'Yardley','Clowsley','yclowsleyf8@google.com','yclowsleyf8','KuwGUr95oy','Loa Janan',NULL,NULL,3907);
@@ -554,8 +536,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3311,'Roselia','Snuggs','rsnuggsfb@zimbio.com','rsnuggsfb','XupAbWuK','Manzanillo',NULL,NULL,4163);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3072,'Jacques','Gitsham','jgitshamfc@addtoany.com','jgitshamfc','47aX9jER','Bentar Girang',NULL,NULL,5813);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3093,'Michele','Whyte','mwhytefd@cbslocal.com','mwhytefd','odxr0zWQz','Yao’an',NULL,NULL,7754);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2131,'Waylen','Tofpik','wtofpikfe@howstuffworks.com','wtofpikfe','N4erlSZG','Pakemitan',NULL,NULL,9694);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1254,'Cate','Cleve','ccleveff@illinois.edu','ccleveff','sYKEbV','Wręczyca Wielka',NULL,'42-284',9411);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3970,'Roarke','Renzini','rrenzinifg@cmu.edu','rrenzinifg','bkQ7JNsV','Nai Harn',NULL,'40330',2927);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3824,'Ninetta','Clutram','nclutramfh@latimes.com','nclutramfh','FqKMzutks68S','Cankova',NULL,'9261',4845);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7504,'Hubey','Kynsey','hkynseyfi@forbes.com','hkynseyfi','DGShcecvy6f','Linfen',NULL,NULL,9206);
@@ -579,18 +559,15 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9432,'Dianna','Jacklin','djackling0@netscape.com','djackling0','egmLF46ZBsX','Xarrë',NULL,NULL,733);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5731,'Bendix','Fortye','bfortyeg1@godaddy.com','bfortyeg1','eW7IqtnfN0','Concepción',NULL,'07023',4335);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (758,'Tobias','Kynastone','tkynastoneg2@histats.com','tkynastoneg2','a9RdPf','Inglewood','California','90305',271);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5416,'Eldon','Valens-Smith','evalenssmithg3@bbc.co.uk','evalenssmithg3','zDOtE5dm0','Ilaya',NULL,'7106',427);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7301,'Silvie','Prozescky','sprozesckyg4@bbc.co.uk','sprozesckyg4','yAnow3','Yongtai',NULL,NULL,3980);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9788,'Gilberta','Maunton','gmauntong5@youku.com','gmauntong5','zl9ZloCyM','Wakkanai',NULL,'763-0231',5526);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4777,'Jacqui','Yakebowitch','jyakebowitchg6@seesaa.net','jyakebowitchg6','7biwTFdLce','Saskylakh',NULL,'187542',2180);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (44,'Aldridge','Towns','atownsg7@state.gov','atownsg7','yY7x68','Ancona','Marche','60129',8965);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (684,'Alica','Soper','asoperg8@earthlink.net','asoperg8','zZROxjk','Żoliborz',NULL,'05-094',2993);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (239,'Marquita','Shuttleworth','mshuttleworthg9@discuz.net','mshuttleworthg9','KAQeh5uFQjVs','Jinan',NULL,NULL,5055);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3522,'Debor','Bleakley','dbleakleyga@apple.com','dbleakleyga','4BIzCzCS1','Mosrentgen',NULL,'391237',4840);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1988,'Hortensia','Epton','heptongb@blogs.com','heptongb','7krpEq5A','Dokuchayevs’k',NULL,NULL,5711);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2763,'Kiersten','Savidge','ksavidgegc@china.com.cn','ksavidgegc','ryOAGpfQP','Sankui',NULL,NULL,4943);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8570,'Wang','Vinecombe','wvinecombegd@pcworld.com','wvinecombegd','Pup6ZUUB6','Jargalant',NULL,NULL,6559);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3332,'Lucais','Plewes','lplewesge@jimdo.com','lplewesge','Zu3IqU8kWY','Xuelu',NULL,NULL,3581);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (92,'Reagen','Nannetti','rnannettigf@nbcnews.com','rnannettigf','1xBDXquG','Guéret','Limousin','23009 CEDEX',2306);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1193,'Doll','Clashe','dclashegg@google.co.jp','dclashegg','LD6pLtKwfmk','Lancai',NULL,NULL,7867);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5932,'Darleen','Broadbridge','dbroadbridgegh@example.com','dbroadbridgegh','4AnNTtulvK','Hangwula',NULL,NULL,3082);
@@ -653,7 +630,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9628,'Gilberte','Gabby','ggabbyi2@paypal.com','ggabbyi2','gLpPYIrDzUW','Ponte','Viseu','3680-191',2218);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (10,'Adham','Fairbrother','afairbrotheri3@prlog.org','afairbrotheri3','YdJlnlg','Jabinyānah',NULL,NULL,2165);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8383,'Gisella','Heber','gheberi4@tripadvisor.com','gheberi4','rNm7Y4','Quinta','Braga','4860-077',5211);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6662,'Paige','Stoad','pstoadi5@amazon.de','pstoadi5','O55Djc5ww','Hele',NULL,NULL,6112);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3386,'Lissy','Caley','lcaleyi6@paginegialle.it','lcaleyi6','6YNVIMQ7','Luanshya',NULL,NULL,1178);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9729,'Levi','Lerohan','llerohani7@businesswire.com','llerohani7','mI7BUspBEmtm','Tavira','Faro','8800-303',3206);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1047,'Kathrine','Cosser','kcosseri8@weather.com','kcosseri8','m0SJUT','Arrentela','Setúbal','2840-146',4688);
@@ -692,7 +668,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3110,'Rebbecca','Bateup','rbateupj5@linkedin.com','rbateupj5','McCw12qUl','Qingkou',NULL,NULL,6413);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4682,'Melva','Manilow','mmanilowj6@forbes.com','mmanilowj6','tfHVbHI0i2','Jiangxigou',NULL,NULL,4247);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7077,'Wilone','Figgess','wfiggessj7@harvard.edu','wfiggessj7','KlcwblrK1P','Novotroitsk',NULL,'613151',5334);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (346,'Godfree','Poone','gpoonej8@sakura.ne.jp','gpoonej8','eJHnSAU2','Longqiao',NULL,NULL,4965);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2682,'Patience','Cahan','pcahanj9@networkadvertising.org','pcahanj9','GdP7AxqRRyT','Villa Carlos Paz',NULL,'5152',5677);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9142,'Addison','Goldfinch','agoldfinchja@eepurl.com','agoldfinchja','CRwQycdsQ','Solntsevo',NULL,'309615',6987);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1114,'Nicholle','Doughtery','ndoughteryjb@mozilla.com','ndoughteryjb','ei1M5iloqkkN','Kampong Thom',NULL,NULL,7884);
@@ -714,17 +689,12 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8298,'Jacobo','DeSousa','jdesousajr@drupal.org','jdesousajr','ys7ZRCV','Chicago','Illinois','60619',7928);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6382,'Mariana','O''Heneghan','moheneghanjs@bing.com','moheneghanjs','tEgvIDfbd','Biqiao',NULL,NULL,9680);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5289,'Dallas','Walstow','dwalstowjt@hibu.com','dwalstowjt','oD7Z9f8K','Matou',NULL,NULL,278);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1254,'Davida','Waison','dwaisonju@deliciousdays.com','dwaisonju','3aZyj7n6A','Qingu',NULL,NULL,95);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (984,'Lukas','Welman','lwelmanjv@lulu.com','lwelmanjv','2D7g5AFIi2G','Saint-Gaudens','Midi-Pyrénées','31804 CEDEX',2640);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4756,'Bendick','Clapperton','bclappertonjw@ning.com','bclappertonjw','CmNEDB','San Agustin',NULL,'8305',8108);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2707,'Bessie','Reyna','breynajx@newsvine.com','breynajx','sD8QJCzmm','Rio Branco do Sul',NULL,'83540-000',3590);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5906,'Cooper','Pendlenton','cpendlentonjy@guardian.co.uk','cpendlentonjy','UEfYMY','Wangcungang',NULL,NULL,4688);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6451,'Eugene','Ruzic','eruzicjz@ucoz.ru','eruzicjz','LwpkpWf','Maghār',NULL,NULL,4202);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5008,'Jourdan','Haresign','jharesignk0@360.cn','jharesignk0','ZvigDtjc8Q','Ipoh','Perak','30506',9682);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (551,'Shanie','Nusche','snuschek1@admin.ch','snuschek1','jS8n8s','Purificación',NULL,'734509',4035);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (897,'Farly','Kinloch','fkinlochk2@wordpress.org','fkinlochk2','5uqnpXCky','Atlanta','Georgia','31106',4629);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7985,'Prue','Ireland','pirelandk3@icq.com','pirelandk3','PS4QVppIwkf','Shiguai',NULL,NULL,6661);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1019,'Cindy','Benditt','cbendittk4@senate.gov','cbendittk4','PeuZqQuhm','Rantau',NULL,NULL,4488);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8744,'Gaylord','Scedall','gscedallk5@europa.eu','gscedallk5','Tgtb4k','Höviyn Am',NULL,NULL,9949);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4836,'Lexis','Villa','lvillak6@is.gd','lvillak6','7y83LxHj','Xishan',NULL,NULL,6871);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7644,'Gareth','Lippitt','glippittk7@paginegialle.it','glippittk7','hu6IJU5e','San Jerónimo',NULL,NULL,3542);
@@ -745,14 +715,11 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5541,'Dalia','Durno','ddurnokm@rediff.com','ddurnokm','ira0NIp5Ol','Vale de Touros','Setúbal','2950-137',1575);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (967,'Clareta','Franks','cfrankskn@java.com','cfrankskn','sn4qK4scy4G','Andalucía',NULL,'763008',4502);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9934,'Malchy','Cholton','mcholtonko@photobucket.com','mcholtonko','1i8fSLD3Vg','Lāmerd',NULL,NULL,7527);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (301,'Kial','Hehl','khehlkp@ifeng.com','khehlkp','oi3TyH4tFs','La Tigra',NULL,'5949',8904);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1571,'Olivia','Carah','ocarahkq@accuweather.com','ocarahkq','KKnjWWeUVOU','Bajina Bašta',NULL,NULL,5044);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9,'Sauncho','Cust','scustkr@cmu.edu','scustkr','kpZ7mU','Enjitsu',NULL,NULL,9188);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9170,'Gilbertine','Fermer','gfermerks@nih.gov','gfermerks','oTN00S8Shs','Žandov',NULL,'403 39',4329);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1743,'Alayne','Fewell','afewellkt@elpais.com','afewellkt','qYtAlaMg5','Uzdin',NULL,NULL,7690);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7577,'Wyndham','Lates','wlatesku@princeton.edu','wlatesku','fQv29zpY5Wf','Žacléř',NULL,'542 01',1639);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2509,'Rolland','Damato','rdamatokv@hexun.com','rdamatokv','ybA8H9','Chodová Planá',NULL,'348 15',8734);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3357,'Kirstyn','Bargery','kbargerykw@addtoany.com','kbargerykw','2EdsgK','Eskifjörður',NULL,'735',6438);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4458,'Dame','Lathe','dlathekx@dedecms.com','dlathekx','GpVJPc8Y','Kalapagada',NULL,NULL,1486);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2788,'Nari','Barthel','nbarthelky@usatoday.com','nbarthelky','mVY6AP','Vlorë',NULL,NULL,4276);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2869,'Lexine','Dolder','ldolderkz@msn.com','ldolderkz','4OaJtpa','Tarrafal',NULL,NULL,7021);
@@ -761,8 +728,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (512,'Faina','Collibear','fcollibearl2@typepad.com','fcollibearl2','QGjlzNZOQ','Bangluo',NULL,NULL,7711);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9998,'Beilul','Raywood','braywoodl3@odnoklassniki.ru','braywoodl3','s43xKfe','Potrerillos',NULL,NULL,5600);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6229,'Laraine','Hauxby','lhauxbyl4@wikimedia.org','lhauxbyl4','U6jRporXtQTl','Kanturk',NULL,'K36',6485);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5181,'Bary','Rihosek','brihosekl5@ucoz.ru','brihosekl5','wp1fnRm','Duyên Hải',NULL,NULL,9813);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4523,'Mohandas','Northin','mnorthinl6@cisco.com','mnorthinl6','nzdfedf2','Pingdi',NULL,NULL,3056);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9378,'Rog','Mc Andrew','rmcandrewl7@reuters.com','rmcandrewl7','wr2Wbk','Janagdong',NULL,'1808',8478);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1392,'Mitch','Taylor','mtaylorl8@clickbank.net','mtaylorl8','U73BpxzRV','Vegreville','Alberta','T9C',55);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5802,'Ervin','Bazley','ebazleyl9@dmoz.org','ebazleyl9','fs1MgVXq','Wagini',NULL,NULL,1224);
@@ -779,7 +744,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3967,'Chandra','Broke','cbrokelk@51.la','cbrokelk','9h7un29t3jTr','Orsay','Île-de-France','91851 CEDEX',8628);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5038,'Conrad','Charge','cchargell@topsy.com','cchargell','CY8z3MyI','Dąbie',NULL,'62-660',9750);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1683,'Winifield','Gother','wgotherlm@harvard.edu','wgotherlm','QvBZt1ou','Jakobstad',NULL,'68660',9496);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8692,'Abey','Moxson','amoxsonln@godaddy.com','amoxsonln','vDEKhZ3RypA','Katovice',NULL,'387 11',1247);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8859,'Mylo','Scates','mscateslo@alibaba.com','mscateslo','zGAEa5ir0L','Caxambu',NULL,'37440-000',2014);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2751,'Foss','Ciciotti','fciciottilp@de.vu','fciciottilp','mWYh6IR','Melaka','Melaka','75518',2736);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4015,'Pammi','Flahy','pflahylq@histats.com','pflahylq','yremprqsKCU','Vavuniya',NULL,'43000',4943);
@@ -791,7 +755,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7005,'Mallissa','Gyles','mgyleslw@accuweather.com','mgyleslw','iH49Fca5j','Tall Salḩab',NULL,NULL,5875);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7653,'Lennie','Mc Combe','lmccombelx@com.com','lmccombelx','PMPHJSipxJ6','Gros Morne',NULL,NULL,3082);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4420,'Paton','Hast','phastly@sina.com.cn','phastly','7anjEKvzv','Jājarm',NULL,NULL,4043);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4079,'Courtenay','Altamirano','caltamiranolz@sitemeter.com','caltamiranolz','qIPtxZ','Stockholm','Stockholm','111 61',4459);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6435,'Bartram','Pendry','bpendrym0@blogspot.com','bpendrym0','FmyCtb8T','Göteborg','Västra Götaland','411 36',8438);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6913,'Winn','Izakson','wizaksonm1@joomla.org','wizaksonm1','lBdcYfAra','Tingloy',NULL,'4203',3299);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5061,'Stella','Trengrove','strengrovem2@pcworld.com','strengrovem2','e8DDc8','Cabaret',NULL,NULL,6676);
@@ -818,7 +781,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9587,'Olly','Staniforth','ostaniforthmn@phoca.cz','ostaniforthmn','4qL9u55j','Nangkasari',NULL,NULL,2856);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (354,'Daune','Stammers','dstammersmo@nba.com','dstammersmo','HOQeZ8q128o','Sokol',NULL,'682574',4988);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7335,'Flory','Goseling','fgoselingmp@weebly.com','fgoselingmp','eqcHXl','La Esperanza',NULL,'546058',6892);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6042,'Gale','Ellard','gellardmq@unc.edu','gellardmq','K29I1Z1','Fengtai Chengguanzhen',NULL,NULL,3801);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6041,'Falkner','Grindlay','fgrindlaymr@biblegateway.com','fgrindlaymr','3hDqbpld','Makbon',NULL,NULL,7696);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (555,'Jamil','Hufton','jhuftonms@symantec.com','jhuftonms','2489PyhARDG','Markaz Mudhaykirah',NULL,NULL,1169);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4656,'Tabor','Tuftin','ttuftinmt@pagesperso-orange.fr','ttuftinmt','IqzqpMZ','Cabouco','Ilha de São Miguel','9560-305',8608);
@@ -868,7 +830,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4906,'Menard','Stockell','mstockello1@paginegialle.it','mstockello1','hGu1VOPBs','Néa Éfesos',NULL,NULL,7753);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7895,'Patrizius','Castane','pcastaneo2@cafepress.com','pcastaneo2','DjTkAdzZqT','As Saffānīyah',NULL,NULL,6112);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2287,'Edin','Farnall','efarnallo3@stanford.edu','efarnallo3','HCqlz8','Muhos',NULL,'91501',9176);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9651,'Roxy','Dickerline','rdickerlineo4@yahoo.com','rdickerlineo4','nsC5bunaIjtP','Río Tercero',NULL,'5850',9854);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2048,'Benito','Pattingson','bpattingsono5@businessinsider.com','bpattingsono5','x62QjofvaEW','Orvalho','Castelo Branco','6185-302',6876);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8047,'Sim','Bortolomei','sbortolomeio6@nationalgeographic.com','sbortolomeio6','WjR1V5BKqotf','Lae',NULL,NULL,8521);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (856,'Aloise','Siaspinski','asiaspinskio7@reference.com','asiaspinskio7','h4CIgnfAQee0','Sanming',NULL,NULL,1165);
@@ -877,12 +838,10 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6875,'Hedda','Tesmond','htesmondoa@google.com.au','htesmondoa','y1T5OZa0','Burtunay',NULL,'368150',1545);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9098,'Wilmar','Ord','wordob@psu.edu','wordob','v9fKje6ppeN','Yangxi',NULL,NULL,8890);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (315,'Willette','Alison','walisonoc@cam.ac.uk','walisonoc','zR52RRz','Estoi','Faro','8005-453',516);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4810,'Otha','Lethabridge','olethabridgeod@naver.com','olethabridgeod','Eu2VBmbSeSJ','San José de las Lajas',NULL,NULL,2863);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3288,'Yelena','Form','yformoe@goo.ne.jp','yformoe','omTJXa','Shijing',NULL,NULL,6222);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3539,'Valaree','Briddle','vbriddleof@arizona.edu','vbriddleof','gSnGpMNZ2','Jobabo',NULL,NULL,5728);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3915,'Alyssa','Nutbean','anutbeanog@imdb.com','anutbeanog','BNZCEeHUj','Hostěradice',NULL,'671 71',5774);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2758,'Cosetta','Syvret','csyvretoh@fastcompany.com','csyvretoh','sTcVAJjYs','Ar Rābiyah',NULL,NULL,9446);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5666,'Care','McEvoy','cmcevoyoi@qq.com','cmcevoyoi','X1pg8qf','Sanlicheng',NULL,NULL,318);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3226,'Nels','Daleman','ndalemanoj@toplist.cz','ndalemanoj','hJJJk9Jzv','Seixo da Beira','Coimbra','3405-425',1672);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9472,'Nanci','Jocic','njocicok@independent.co.uk','njocicok','6TOaWfS','Tiantai Chengguanzhen',NULL,NULL,4943);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7840,'Odelia','Shiliton','oshilitonol@time.com','oshilitonol','4vhU2kmd','Pemex','Veracruz Llave','96684',6676);
@@ -904,17 +863,13 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3834,'Abramo','Cawte','acawtep1@hp.com','acawtep1','kmnJUYqPh2','Tabunok',NULL,'6008',106);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1393,'Clarisse','Starton','cstartonp2@miitbeian.gov.cn','cstartonp2','uPl6WENoF','Visconde do Rio Branco',NULL,'36520-000',5924);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8568,'Jeremy','McGahy','jmcgahyp3@hostgator.com','jmcgahyp3','iZ4Ou6V','Bakov nad Jizerou',NULL,'294 01',4479);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7653,'Charmine','Boorne','cboornep4@java.com','cboornep4','gaYqHpmM7M','København','Region Hovedstaden','1666',2567);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8199,'Rip','Uvedale','ruvedalep5@zimbio.com','ruvedalep5','WwD3ElER4gZ','Wissous','Île-de-France','91324 CEDEX',4983);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2971,'Meredith','Rives','mrivesp6@gnu.org','mrivesp6','7cB6grBU5r','Ledoy',NULL,NULL,3801);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8638,'Stanley','Balazs','sbalazsp7@stanford.edu','sbalazsp7','X1Q664s','Burgkirchen','Oberösterreich','5271',391);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1866,'Tobias','Twyford','ttwyfordp8@mediafire.com','ttwyfordp8','KB3dq4Zk','Rudolfov',NULL,'373 71',7778);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7876,'Tana','Laughren','tlaughrenp9@elegantthemes.com','tlaughrenp9','JQtqsVnnLbyz','Chuguyevka',NULL,'692607',1247);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2693,'Consuelo','Topper','ctopperpa@wordpress.com','ctopperpa','qNiEzBY','Margos',NULL,'1217',5657);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8644,'Sella','Zuanelli','szuanellipb@facebook.com','szuanellipb','FRdkKI','Pinellas Park','Florida','34665',6988);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7683,'Jens','Ilchuk','jilchukpc@google.fr','jilchukpc','qTBLcU','Studénka',NULL,'742 13',3192);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6698,'Rooney','Dudderidge','rdudderidgepd@alibaba.com','rdudderidgepd','lxXK63','Zhanjiang',NULL,NULL,8016);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4619,'Geralda','Curnnokk','gcurnnokkpe@techcrunch.com','gcurnnokkpe','pYXDSXgHC','Chumphon',NULL,'30440',3451);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5757,'Riobard','Frew','rfrewpf@unc.edu','rfrewpf','HYKslyvS','Kuanheum',NULL,NULL,6485);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5188,'Marietta','Ceccoli','mceccolipg@hhs.gov','mceccolipg','dRA1STbaz','Zárate',NULL,'3423',4145);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (4045,'Lindsay','Castelot','lcastelotph@hp.com','lcastelotph','1zRUlj8AekuB','Bumba',NULL,NULL,564);
@@ -923,7 +878,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (983,'Brenda','Rough','broughpk@topsy.com','broughpk','82B0ryRIOS','Gutian',NULL,NULL,5796);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3695,'Norbie','Kaye','nkayepl@wiley.com','nkayepl','PkN8pO394h','Anopog',NULL,'1695',4997);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5409,'Harman','Wildblood','hwildbloodpm@unc.edu','hwildbloodpm','dJn3eQC','Xiaoqi',NULL,NULL,9295);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (383,'Monroe','Shambrooke','mshambrookepn@opera.com','mshambrookepn','vvGAdxLiHLF','Ganxi',NULL,NULL,3726);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3769,'Spike','Rooke','srookepo@tripod.com','srookepo','wHjdwAWv','Rogoza',NULL,'2327',4664);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5032,'Lissa','Spandley','lspandleypp@myspace.com','lspandleypp','lj3jmVyFPsn','Qinshan',NULL,NULL,9188);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (7033,'Blondy','Heningham','bheninghampq@walmart.com','bheninghampq','z6qUkyA8qP','Darmasari',NULL,NULL,1784);
@@ -951,7 +905,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6160,'Berget','Stanbrooke','bstanbrookeqc@noaa.gov','bstanbrookeqc','y5XXzVHE','Bočar',NULL,NULL,7696);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (399,'Alyce','Delacour','adelacourqd@mediafire.com','adelacourqd','6kieAm','Shicong',NULL,NULL,4434);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (6204,'Kettie','Pilipyak','kpilipyakqe@nature.com','kpilipyakqe','pZVImz','Gueset',NULL,'2436',9314);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9983,'Wilow','Vidloc','wvidlocqf@time.com','wvidlocqf','1HfL2H','Bandar-e Lengeh',NULL,NULL,5159);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (1374,'Anette','Delph','adelphqg@linkedin.com','adelphqg','hO34qDdiAF','Aykol',NULL,NULL,797);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (5623,'Farlie','Everit','feveritqh@columbia.edu','feveritqh','pr0vZco','Stenungsund','Västra Götaland','444 32',5147);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2813,'Addy','Blaszczynski','ablaszczynskiqi@vimeo.com','ablaszczynskiqi','5fvpZW5Y','Pendembu',NULL,NULL,7054);
@@ -990,7 +943,6 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9100,'Hagen','Kemell','hkemellrf@theglobeandmail.com','hkemellrf','ySqoe8P','Duba',NULL,NULL,4567);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8031,'Allianora','Kneebone','akneebonerg@usa.gov','akneebonerg','u9R0p90','Rattanaburi',NULL,'85120',4020);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9242,'Consalve','July','cjulyrh@dagondesign.com','cjulyrh','ZPzHac','Tubod',NULL,'9209',41);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9981,'Elke','Cordsen','ecordsenri@nymag.com','ecordsenri','yU23WjX','Cambará',NULL,'86390-000',5029);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (9342,'Vicky','Giacoppoli','vgiacoppolirj@google.ru','vgiacoppolirj','r89h6z','Huangzhuang',NULL,NULL,8254);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (2452,'Annora','Pulman','apulmanrk@jalbum.net','apulmanrk','RD4tLOoTsB','Koryukivka',NULL,NULL,8574);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (800,'Kathy','Vannuccini','kvannuccinirl@youtu.be','kvannuccinirl','ZUJlAi','Nakonde',NULL,NULL,2741);
@@ -999,4 +951,3 @@ INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,cu
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (300,'Kaspar','Martin','kmartinro@godaddy.com','kmartinro','eOlOj50X','Santa Cruz do Rio Pardo',NULL,'18900-000',199);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (3481,'Karine','Kenworthey','kkenwortheyrp@usgs.gov','kkenwortheyrp','kNzSvXu2oZo6','Kailahun',NULL,NULL,9574);
 INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (367,'Corilla','Barke','cbarkerq@furl.net','cbarkerq','xwWjtrD3','Benito Juarez','Morelos','62214',3330);
-INSERT INTO Author(authorid,first,last,email,username,password,city,state,zip,curatorid) VALUES (8454,'Joannes','Condict','jcondictrr@delicious.com','jcondictrr','iWS7mW','Acao',NULL,'1116',8264);
