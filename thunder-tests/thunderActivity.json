@@ -252,5 +252,19 @@
       "form": []
     },
     "tests": []
+  },
+  {
+    "_id": "4bbcacf0-ce14-4a36-8ae4-d94c7872956f",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:8001/c/bookdelete/1",
+    "url": "localhost:8001/c/bookdelete/1",
+    "method": "DELETE",
+    "sortNum": 0,
+    "created": "2023-04-19T18:04:26.242Z",
+    "modified": "2023-04-19T18:04:26.242Z",
+    "headers": [],
+    "params": [],
+    "tests": []
   }
 ]
