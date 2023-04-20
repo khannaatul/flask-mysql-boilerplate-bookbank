@@ -9,6 +9,8 @@ This repo contains a boilerplate setup for spinning up 3 Docker containers:
 1. A Python Flask container to implement a REST API
 1. A Local AppSmith Server
 
+# Video Demo
+https://youtu.be/Xfq4R-L_KJE
 ## How to setup and start the containers
 **Important** - you need Docker Desktop installed
 
