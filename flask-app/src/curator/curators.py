@@ -10,7 +10,7 @@ curators = Blueprint('curators', __name__)
 def get_Curators():
     cursor = db.get_db().cursor()
     cursor.execute('SELECT CuratorID,\
-       first, last, email, username FROM Curator')
+       first, last, email, username, password FROM Curator')
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -94,10 +94,12 @@ def curator_delete(curatorid):
 # update curator username and password
 @curators.route("/curatorupdate/<curatorid>", methods=["PUT"])
 def curator_update(curatorid):
-    newpassword = request.json['password']
+    the_data = request.json
+    newpassword = the_data['password']
+    curatorID = the_data['curatorID']
     cursor = db.get_db().cursor()
 
-    query = "UPDATE Curator SET password = '%s' WHERE CuratorID = '%s'"%(newpassword,curatorid)
+    query = "UPDATE Curator SET password = '%s' WHERE CuratorID = '%s'"%(newpassword,curatorID)
 
     cursor.execute(query)
     #send commit command to database

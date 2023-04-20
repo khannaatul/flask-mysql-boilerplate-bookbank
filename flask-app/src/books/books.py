@@ -14,8 +14,7 @@ def get_books():
     # use cursor to query the database for a list of books
     cursor.execute('SELECT first,last, pagecount coverimage,\
         genre, title, link, conditionofbook, inbank, isphysical,\
-        numcopies, synopsis, isautographed, bookid, userid, curatorid,\
-        authorid FROM Books')
+        numcopies, synopsis, isautographed, bookid FROM Books')
 
     # grab the column headers from the returned data
     column_headers = [x[0] for x in cursor.description]
@@ -112,8 +111,10 @@ def add_book():
 
 @books.route("/bookdelete/<bookID>", methods=["DELETE"])
 def book_delete(bookID):
+    the_data = request.json
+    bookid = the_data['bookID']
     cursor = db.get_db().cursor()
-    cursor.execute('DELETE from Books where bookID = {0}'.format(bookID))
+    cursor.execute('DELETE from Books where bookID = %s'%(bookid))
     #send commit command to database
     db.get_db().commit()
     return "Book was successfully deleted"
